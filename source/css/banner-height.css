@@ -1,0 +1,91 @@
+/* ========== 首页 ========== */
+.top-img {
+    height: 220px !important;
+    min-height: 220px !important;
+}
+/* ========== 文章详情页 + 归档、标签等其他页面 ========== */
+#page-header.post-bg,
+#page-header.not-home-page {
+    height: 220px !important;
+    min-height: 220px !important;
+}
+/* 强制文章详情页banner图片和首页保持一致，替换为你的图片路径 */
+#page-header.post-bg {
+    background-image: url("/img/banner.jpg") !important;
+}
+/* 移动端 */
+@media screen and (max-width:768px){
+  .top-img {
+    height:180px !important;
+    min-height:180px !important;
+  }
+  #page-header.post-bg,
+  #page-header.not-home-page {
+    height:180px !important;
+    min-height:180px !important;
+  }
+}
+
+/*导航栏logo尺寸 498*198横版logo*/
+#nav .site-icon {
+  height:55px !important;
+  width:auto !important;
+  max-width:220px !important;
+  vertical-align: middle !important;
+}
+/*手机端缩小logo，防止挤爆导航栏*/
+@media (max-width: 768px) {
+  #nav .site-icon {
+    height:34px !important;
+    max-width:160px !important;
+  }
+}
+
+/* ========== 阅读体验优化，贴近Fluid风格 ========== */
+/*全局基础字体，优先苹方、思源黑体，Windows微软雅黑*/
+html,body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif !important;
+}
+
+/*文章正文：字号、行高（最关键！Fluid行高1.7‑1.8）*/
+.post-content {
+  font-size:16px !important;
+  line-height:1.7 !important; /* 行高，越大越宽松，推荐1.7~1.8 */
+  color:#333 !important;
+}
+
+/*文章段落上下间距，增大留白，消除拥挤感*/
+.post-content p {
+  margin:1.2em 0 !important;
+}
+
+/*标题：降低字重，不要黑乎乎粗标题，Fluid标题偏柔和*/
+.post-content h1,.post-content h2,.post-content h3,.post-content h4 {
+  font-weight: 500 !important;
+  margin-top:1.6em !important;
+  margin-bottom:0.8em !important;
+}
+
+/*侧边栏整体字体调柔和，不要粗黑体*/
+#aside_content {
+  font-weight:400 !important;
+}
+#aside_content .card-title {
+  font-weight:500 !important;
+}
+
+/*代码块：字号、内边距，改善阅读*/
+pre[class*="language-"] {
+  font-size:14px !important;
+  line-height:1.6 !important;
+}
+
+/*页面全局正文颜色，不要灰蒙蒙#555，改成#333更通透；夜间模式不受影响*/
+:root {
+  --text-color: #333;
+}
+
+/*文章列表首页卡片文字，调柔和*/
+#recent-posts .post-title {
+  font-weight:500 !important;
+}

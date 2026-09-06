@@ -1,0 +1,15 @@
+public/
+node_modules/
+.edgeone/
+.idea/
+.vscode/
+*.log
+.deploy_git/
+db.json
+
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+.tef_dist/*
+
+edgeone.json
