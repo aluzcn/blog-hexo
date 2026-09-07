@@ -13,7 +13,7 @@ categories: []
   　　安装完成后，到它的选项中进入https://cyoy.cn:80/transmission/
 编辑Settings.json文件
 
-https://img.cyoy.cn/hexo/images/2011/04/Snap111.jpg
+![](https://img.cyoy.cn/hexo/images/2011/04/Snap111.jpg)
 
 “rpc-password”: “aaaaaa”,
 “rpc-port”: 9091,
@@ -29,7 +29,8 @@ https://img.cyoy.cn/hexo/images/2011/04/Snap111.jpg
 设置等）PT下载。这个transmission-remote是安装在电脑上供操作
 NAS的transmission套件的，它本身不是transmission下载套件。不要搞混了哟。
 　　下载地址：http://code.google.com/p/transmission-remote-dotnet/
-　　这是我放在快盘供下载的链接：　http://www.kuaipan.cn/file/id_2334211646161921.html
+　　这是我放在快盘供下载的链接：
+　http://www.kuaipan.cn/file/id_2334211646161921.html
 
 
 作者: 瑶Ba
