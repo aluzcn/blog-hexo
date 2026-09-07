@@ -42,3 +42,4 @@ RewriteRule . /wordpress/index.php [L]
 
 
 
+

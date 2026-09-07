@@ -127,7 +127,7 @@ related_post:
 post_pagination: 1
 
 noticeOutdate:
-  enable: true
+  enable: false
   style: flat
   limit_day: 540
   position: top
