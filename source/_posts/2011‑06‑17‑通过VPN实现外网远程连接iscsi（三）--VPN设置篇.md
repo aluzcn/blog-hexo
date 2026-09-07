@@ -1,4 +1,4 @@
----
+﻿---
 title: "通过VPN实现外网远程连接iscsi（三）--VPN设置篇"
 date: 2011-06-17 10:23:00
 cid: 466
@@ -34,8 +34,19 @@ layout: post
 
 ![请输入图片描述][5]
 
-  [1]:  /images/2011/06/Snap31.jpg
-  [2]:  /images/2011/06/Snap4.jpg
-  [3]:  /images/2011/06/Snap5.jpg
-  [4]:  /images/2011/06/Snap6.jpg
-  [5]:  /images/2011/06/Snap7.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/06/Snap31.jpg
+  [2]: https://img.cyoy.cn/hexo/images/2011/06/Snap4.jpg
+  [3]: https://img.cyoy.cn/hexo/images/2011/06/Snap5.jpg
+  [4]: https://img.cyoy.cn/hexo/images/2011/06/Snap6.jpg
+  [5]: https://img.cyoy.cn/hexo/images/2011/06/Snap7.jpg
+
+
+
+
+
+
+
+
+
+
+

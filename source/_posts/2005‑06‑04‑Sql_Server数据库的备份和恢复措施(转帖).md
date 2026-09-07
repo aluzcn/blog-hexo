@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sql Server数据库的备份和恢复措施(转帖)"
 date: 2005-06-04 12:15:15
 cid: 312
@@ -6,7 +6,7 @@ categories: [网络]
 layout: post
 ---
 
-<a href=" /images/2005/06/20251127104117307.jpg"><img class="aligncenter size-full wp-image-5580" src=" /images/2005/06/20251127104117307.jpg" alt="" width="100" height="100" /></a>
+<a href="https://img.cyoy.cn/hexo/images/2005/06/20251127104117307.jpg"><img class="aligncenter size-full wp-image-5580" src="https://img.cyoy.cn/hexo/images/2005/06/20251127104117307.jpg" alt="" width="100" height="100" /></a>
 
 一、备份数据库
 
@@ -52,3 +52,14 @@ layout: post
 1、将原数据库的所有表、存储过程导出成一个SQL文件，导出的时候注意在选项中选择编写索引脚本和编写主键、外键、默认值和检查约束脚本选项
 2、新建数据库，对新建数据库执行第一步中所建立的SQL文件
 3、用SQL的导入导出方式，对新数据库导入原数据库中的所有表内容
+
+
+
+
+
+
+
+
+
+
+

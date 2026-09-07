@@ -1,4 +1,4 @@
----
+﻿---
 title: "NAS安装transmission支持PT及控制软件下载(详)"
 date: 2011-01-12 22:14:42
 cid: 12
@@ -28,3 +28,14 @@ layout: post
 　　这是它的网站：http://code.google.com/p/transmission-remote-dotnet　进入后点Downloads进入下载列表，再点Search，选择All downloads就可以看到最新的版本了。高版本在安装时可以选择中文语言包。注意：如果出现不能初始化等，请先安装Microsoft .NET Framework 系统编程框架。
 　　我的NAS喜欢白天下载速率控制在50K/s，晚上12点之后就在300K/s，这样兼顾NAS的网页访问功能和下载功能。我的ADSL是4M带宽，最高下载速率能达到400K/s，同时开启下载任务数建议是2，最多不超过3，否则会占用NAS的资源，导致反映迟缓。
 　　注意：运行的指令是：transmission-adduser　（是一个整体，中间没有空格）。
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "群晖vpn server"
 date: 2024-05-30 10:23:34
 cid: 1397
@@ -15,7 +15,7 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5125,"width":"451px","height":"auto","sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><img src=" /images/2024/05/screenshot-1717036053219.jpg" alt="群晖vpn server" class="wp-image-5125" style="width:451px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="https://img.cyoy.cn/hexo/images/2024/05/screenshot-1717036053219.jpg" alt="群晖vpn server" class="wp-image-5125" style="width:451px;height:auto"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -23,5 +23,16 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":5122,"width":"460px","height":"auto","sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><img src=" /images/2024/05/screenshot-1717035711683.jpg" alt="群晖vpn server" class="wp-image-5122" style="width:460px;height:auto"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="https://img.cyoy.cn/hexo/images/2024/05/screenshot-1717035711683.jpg" alt="群晖vpn server" class="wp-image-5122" style="width:460px;height:auto"/></figure>
 <!-- /wp:image -->
+
+
+
+
+
+
+
+
+
+
+

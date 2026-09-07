@@ -1,4 +1,4 @@
----
+﻿---
 title: "wordpress媒体库图片问题（二）"
 date: 2016-01-22 15:41:48
 cid: 588
@@ -6,7 +6,7 @@ categories: [Nas]
 layout: post
 ---
 
-<p>　　<img alt="4403" height="409" src=" /images/2016/01/4403.jpg" title="" width="635" /><br />
+<p>　　<img alt="4403" height="409" src="https://img.cyoy.cn/hexo/images/2016/01/4403.jpg" title="" width="635" /><br />
 	　　wp在上传图片后默认生成几种规格的图片（缩略图,中,大,完整）,比较复杂但也有用，但图片数量会很多，占用空间。<br />
 	按默认的这张图片的配置，上传后至少生成3张尺寸的图片（媒体库里只显示一张，实际有多张）。</p>
 
@@ -18,8 +18,19 @@ layout: post
 	非你再编辑这个帖子来重新选择媒体库中的相应图片后再插入其他尺寸。<br />
 	　　修改位置在这里，由于我将参数全部设置成0，所以只有一种完整尺寸，不能多选。</p>
 
-<p><span style="line-height: 1.6;">　　</span><img alt="4450" class="alignnone size-full wp-image-2003" height="697" src=" /images/2016/01/4450.jpg" style="line-height: 1.6;" width="336" /><br />
+<p><span style="line-height: 1.6;">　　</span><img alt="4450" class="alignnone size-full wp-image-2003" height="697" src="https://img.cyoy.cn/hexo/images/2016/01/4450.jpg" style="line-height: 1.6;" width="336" /><br />
 	　　上传图片到媒体库后，图片只显示一张，后台却按你设置的参数可能有好几张。删除时这只要删除显示出的一张，其<br />
 	他也一并删除了，它是归集到一张显示的。<br />
 	　　在这里可以编辑修改图片，如果有其他尺寸的图片你可以选择，但选择是什么就显示什么尺寸。</p>
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "原创:怎么用phpmyadmin备份和恢复数据库"
 date: 2005-06-04 11:27:44
 cid: 317
@@ -15,7 +15,7 @@ layout: post
 就是一个必修课了.
 一.如何备份:
 见下图,可以用shift来快速选择多个文件,之后
-再选择备份的类型就行了<a href=" /images/2005/06/20251127104825913.jpg"><img class="aligncenter size-full wp-image-5585" src=" /images/2005/06/20251127104825913.jpg" alt="" width="439" height="369" /></a>
+再选择备份的类型就行了<a href="https://img.cyoy.cn/hexo/images/2005/06/20251127104825913.jpg"><img class="aligncenter size-full wp-image-5585" src="https://img.cyoy.cn/hexo/images/2005/06/20251127104825913.jpg" alt="" width="439" height="369" /></a>
 
 <span style="color: red;">如何恢复</span>
 
@@ -24,6 +24,17 @@ sql的文件就行了.
 另外,如何你的备份数据库超过8M,那就必须再
 修改 php.ini 中有关上传的设置才行的
 
-<a href=" /images/2005/06/20251127104837424.jpg"><img class="aligncenter size-full wp-image-5587" src=" /images/2005/06/20251127104837424.jpg" alt="" width="389" height="359" /></a>
+<a href="https://img.cyoy.cn/hexo/images/2005/06/20251127104837424.jpg"><img class="aligncenter size-full wp-image-5587" src="https://img.cyoy.cn/hexo/images/2005/06/20251127104837424.jpg" alt="" width="389" height="359" /></a>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+

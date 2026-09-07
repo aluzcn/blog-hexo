@@ -1,4 +1,4 @@
----
+﻿---
 title: "群晖套件wordpress固定链接问题"
 date: 2018-08-05 18:18:00
 cid: 1481
@@ -30,4 +30,15 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /wordpress/index.php [L]
 </IfModule>
+
+
+
+
+
+
+
+
+
+
+
 

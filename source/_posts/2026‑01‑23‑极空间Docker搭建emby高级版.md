@@ -1,4 +1,4 @@
----
+﻿---
 title: "极空间Docker搭建emby高级版"
 date: 2026-01-23 11:03:00
 cid: 1519
@@ -31,9 +31,20 @@ layout: post
 4、Dokcer的 “通用” 选项里面的性能限制，根据你自己想要选择吧。
 
 Docker搭建免费版emby参考此贴
-https://aluz.cn/nas/1427.html
+https://cyoy.cn/nas/1427.html
 
-  [1]:  /images/2026/01/2516145394.webp
-  [2]:  /images/2026/01/586913168.webp
-  [3]:  /images/2026/01/1110717534.webp
-  [4]:  /images/2026/01/359422014.webp
+  [1]: https://img.cyoy.cn/hexo/images/2026/01/2516145394.webp
+  [2]: https://img.cyoy.cn/hexo/images/2026/01/586913168.webp
+  [3]: https://img.cyoy.cn/hexo/images/2026/01/1110717534.webp
+  [4]: https://img.cyoy.cn/hexo/images/2026/01/359422014.webp
+
+
+
+
+
+
+
+
+
+
+

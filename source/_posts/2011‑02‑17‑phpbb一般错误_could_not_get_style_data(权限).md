@@ -1,4 +1,4 @@
----
+﻿---
 title: "phpbb一般错误 could not get style data(权限)"
 date: 2011-02-17 18:26:11
 cid: 386
@@ -13,3 +13,14 @@ layout: post
 　　准备等新硬盘到手后，还是老老实实重新安装程序比较好，省得麻烦。
 　　phpbb出现“一般错误 could not get style data”后，只要把cache文件夹里所有文件都清掉并设置cache目录和777就行了。
 　　wordpress的数据库定时备份插件也有一个目录要修改成777
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "wordpress管理工具栏"
 date: 2011-03-14 09:53:00
 cid: 412
@@ -13,4 +13,15 @@ layout: post
 ![请输入图片描述][1]
 
 
-  [1]:  /images/2011/03/Snap12.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/03/Snap12.jpg
+
+
+
+
+
+
+
+
+
+
+

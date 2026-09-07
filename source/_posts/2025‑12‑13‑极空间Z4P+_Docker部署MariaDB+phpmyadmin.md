@@ -1,4 +1,4 @@
----
+﻿---
 title: "极空间Z4P+ Docker部署MariaDB+phpmyadmin"
 date: 2025-12-13 11:14:00
 cid: 1486
@@ -43,10 +43,21 @@ layout: post
 *注意：极空间系统以及Docker重启后，这个172.17.0.7地址会改变，需要及时更新。如果在这个mariadb中建立了网站，也需要修改网站的配置文件。这一点不如直接安装宝塔面板更方便。*
 
 
-  [1]:  /images/2025/12/507009601.jpeg
-  [2]:  /images/2025/12/1452278139.jpeg
-  [3]:  /images/2025/12/2503496822.jpeg
-  [4]:  /images/2025/12/24914223.jpeg
-  [5]:  /images/2025/12/322349812.jpeg
-  [6]:  /images/2025/12/284220734.jpeg
+  [1]: https://img.cyoy.cn/hexo/images/2025/12/507009601.jpeg
+  [2]: https://img.cyoy.cn/hexo/images/2025/12/1452278139.jpeg
+  [3]: https://img.cyoy.cn/hexo/images/2025/12/2503496822.jpeg
+  [4]: https://img.cyoy.cn/hexo/images/2025/12/24914223.jpeg
+  [5]: https://img.cyoy.cn/hexo/images/2025/12/322349812.jpeg
+  [6]: https://img.cyoy.cn/hexo/images/2025/12/284220734.jpeg
   
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "本地nas导入wordpress数据库"
 date: 2016-01-27 15:10:28
 cid: 595
@@ -35,4 +35,15 @@ layout: post
 <p><span style="color:#FF0000;">UPDATE wp_posts SET post_content = replace( post_content, &#39;yocn.net&#39;,&#39;aluz.3322.org:88&#39;) ;</span></p>
 
 <p><span style="color:#FF0000;">UPDATE wp_comments SET comment_author_url = replace(comment_author_url, &#39;yocn.net&#39;, &#39;aluz.3322.org:88&#39;) ;</span></p>
+
+
+
+
+
+
+
+
+
+
+
 

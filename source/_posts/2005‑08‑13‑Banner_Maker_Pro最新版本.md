@@ -1,4 +1,4 @@
----
+﻿---
 title: "Banner Maker Pro最新版本"
 date: 2005-08-13 16:51:00
 cid: 273
@@ -37,3 +37,14 @@ layout: post
 正式开始制作Banner。
  　　2、Size(确定Banner的大小)
 　　在窗口右边已例出常见网页Banner的大小规格，如468
+
+
+
+
+
+
+
+
+
+
+

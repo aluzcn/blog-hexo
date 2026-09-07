@@ -1,4 +1,4 @@
----
+﻿---
 title: "群晖Transmission出现403"
 date: 2011-03-12 17:54:00
 cid: 411
@@ -40,4 +40,15 @@ reboot #重启机器
 ![请输入图片描述][1]
 
 
-  [1]:  /images/2011/03/Snap11.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/03/Snap11.jpg
+
+
+
+
+
+
+
+
+
+
+

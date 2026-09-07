@@ -1,4 +1,4 @@
----
+﻿---
 title: "wordPress图片加水印插件-waterMark reloaded"
 date: 2011-02-25 10:25:00
 cid: 398
@@ -19,4 +19,15 @@ layout: post
 　　这些都设置好后，点击“Save Changes　”按钮，就可以保存更改了。
 
 
-  [1]:  /images/2011/02/Snap15.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/02/Snap15.jpg
+
+
+
+
+
+
+
+
+
+
+

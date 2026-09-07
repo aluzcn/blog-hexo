@@ -1,4 +1,4 @@
----
+﻿---
 title: "wordpress完美更换域名"
 date: 2016-01-26 09:26:51
 cid: 594
@@ -26,7 +26,7 @@ layout: post
 
 <p>&nbsp;</p>
 
-<center><img alt="1427986959759" class="alignnone size-full wp-image-2033" height="277" src=" /images/2016/01/1427986959759.png" width="620" /></center>
+<center><img alt="1427986959759" class="alignnone size-full wp-image-2033" height="277" src="https://img.cyoy.cn/hexo/images/2016/01/1427986959759.png" width="620" /></center>
 
 <p>&nbsp;</p>
 
@@ -36,7 +36,18 @@ layout: post
 
 <p>&nbsp;</p>
 
-<center><img alt="14275" class="alignnone size-full wp-image-2034" height="217" src=" /images/2016/01/14275.png" width="620" /></center>
+<center><img alt="14275" class="alignnone size-full wp-image-2034" height="217" src="https://img.cyoy.cn/hexo/images/2016/01/14275.png" width="620" /></center>
 
 <p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "放弃f2blog和boblog"
 date: 2018-09-06 10:54:09
 cid: 1292
@@ -17,3 +17,14 @@ bluehost的主机支持php7.1，高版本的php对提升wordpress的运行
 能运行typecho 和zblog php两个程序。
 
 时代在进步，技术也在进步，该放弃就的放弃。这就是自然规律。
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "安装transmission体会(手动启动)"
 date: 2011-02-23 15:58:57
 cid: 395
@@ -14,3 +14,14 @@ layout: post
 　　第四步，transmission-daemon -p 9091 -f -T -a *.*.*.* -w /share/HDA_DATA/download/ -g /share/HDA_DATA/download/config/
 　　这样就可以通过9091口或者用transmission远程控制软件来下载了，以后每次重新启动NS后只要执行第四步就可以正常下载了，没有[~] #，直接关闭putty就行了。（可以复制第四步代码填写到[~] #后面并回车执行）
 　　如果要停止transmission可以在[~] #下执行killall transmission-daemon命令，或者在执行第四步后的屏幕中执行ctrl C退到[~] #也能停止。
+
+
+
+
+
+
+
+
+
+
+

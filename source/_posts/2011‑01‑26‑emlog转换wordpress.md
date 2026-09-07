@@ -1,4 +1,4 @@
----
+﻿---
 title: "emlog转换wordpress"
 date: 2011-01-26 10:24:00
 cid: 348
@@ -19,4 +19,15 @@ layout: post
 ![请输入图片描述][1]
 
 
-  [1]:  /images/2011/01/wp.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/01/wp.jpg
+
+
+
+
+
+
+
+
+
+
+

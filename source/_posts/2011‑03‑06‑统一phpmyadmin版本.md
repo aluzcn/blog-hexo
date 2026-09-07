@@ -1,4 +1,4 @@
----
+﻿---
 title: "统一phpmyadmin版本"
 date: 2011-03-06 21:06:00
 cid: 407
@@ -23,4 +23,15 @@ $cfg['blowfish_secret'] = 'aluzcn';　　　
 　　其中的"aluzcn"为任意短语 
 
 
-  [1]:  /images/2011/03/Snap1.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/03/Snap1.jpg
+
+
+
+
+
+
+
+
+
+
+

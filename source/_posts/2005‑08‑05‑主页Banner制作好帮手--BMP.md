@@ -1,4 +1,4 @@
----
+﻿---
 title: "主页Banner制作好帮手--BMP"
 date: 2005-08-05 19:43:15
 cid: 275
@@ -6,7 +6,7 @@ categories: [网络]
 layout: post
 ---
 
-<a href=" /images/2005/08/20251127102254327.jpg"><img class="aligncenter size-full wp-image-5571" src=" /images/2005/08/20251127102254327.jpg" alt="" width="235" height="180" /></a>
+<a href="https://img.cyoy.cn/hexo/images/2005/08/20251127102254327.jpg"><img class="aligncenter size-full wp-image-5571" src="https://img.cyoy.cn/hexo/images/2005/08/20251127102254327.jpg" alt="" width="235" height="180" /></a>
 
 软件相关资料
 
@@ -41,3 +41,14 @@ BMP主界面如图1所示，最上排为10个标签按钮，分别代表制作Ba
 2、Size(确定Banner的大小)
 
 在窗口右边已例出常见网页Banner的大小规格，如468
+
+
+
+
+
+
+
+
+
+
+

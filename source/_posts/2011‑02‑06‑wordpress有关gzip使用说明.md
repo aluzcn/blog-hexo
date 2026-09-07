@@ -1,4 +1,4 @@
----
+﻿---
 title: "wordpress有关gzip使用说明"
 date: 2011-02-06 13:22:00
 cid: 371
@@ -22,5 +22,16 @@ layout: post
 　
 
 
-  [1]:  /images/2011/02/Snap1.jpg
-  [2]:  /images/2011/02/Snap11.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/02/Snap1.jpg
+  [2]: https://img.cyoy.cn/hexo/images/2011/02/Snap11.jpg
+
+
+
+
+
+
+
+
+
+
+

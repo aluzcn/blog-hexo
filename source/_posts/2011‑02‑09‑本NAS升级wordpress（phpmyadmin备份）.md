@@ -1,4 +1,4 @@
----
+﻿---
 title: "本NAS升级wordpress（phpmyadmin备份）"
 date: 2011-02-09 10:05:00
 cid: 374
@@ -40,4 +40,15 @@ layout: post
 　　我在后台升级插件时，只能先把提示需要升级的插件目录名称改掉，比如Akismet的目录改成Akismet2，然后再点按自动升级，程序就会自动在插件目录在创立Akismet目录并成功安装，之后再把Akismet2目录删除就行了。
 
 
-  [1]:  /images/2011/02/backup4-1.png
+  [1]: https://img.cyoy.cn/hexo/images/2011/02/backup4-1.png
+
+
+
+
+
+
+
+
+
+
+

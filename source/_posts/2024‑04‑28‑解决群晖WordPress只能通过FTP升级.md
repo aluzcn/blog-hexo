@@ -1,4 +1,4 @@
----
+﻿---
 title: "解决群晖WordPress只能通过FTP升级"
 date: 2024-04-28 22:08:20
 cid: 1381
@@ -18,11 +18,11 @@ layout: post
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":4900,"width":"638px","height":"auto","sizeSlug":"full"} -->
-<figure class="wp-block-image size-full is-resized"><a href=" /images/2024/04/image-5.png"><img class="aligncenter wp-image-4900 size-full" style="width: 638px; height: auto;" src=" /images/2024/04/image-5.png" alt="" width="855" height="426" /></a></figure>
+<figure class="wp-block-image size-full is-resized"><a href="https://img.cyoy.cn/hexo/images/2024/04/image-5.png"><img class="aligncenter wp-image-4900 size-full" style="width: 638px; height: auto;" src="https://img.cyoy.cn/hexo/images/2024/04/image-5.png" alt="" width="855" height="426" /></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>　　网上提示是wp安装目录的权限不够，设置成777和http用户后依然不行。<br /><br />　　解决办法就是编辑网站根目录下的 <strong>wp-config.php </strong>文件，添加以下脚本信息：</p>
+<p>　　网上提示是wp安装目录的权限不够，设置成777和http用户后依然不行。<br /><br />　　解决办法就是编辑网站根目录下的?<strong>wp-config.php?</strong>文件，添加以下脚本信息：</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -43,3 +43,14 @@ define(“FS_CHMOD_FILE”, 0777);</pre>
 <p>&nbsp;</p>
 <!-- /wp:paragraph --></blockquote>
 <!-- /wp:quote -->
+
+
+
+
+
+
+
+
+
+
+

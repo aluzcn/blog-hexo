@@ -1,4 +1,4 @@
----
+﻿---
 title: "TypeCho换Nas域名"
 date: 2025-12-08 11:06:00
 cid: 1424
@@ -24,4 +24,15 @@ UPDATE typecho_contents SET text = REPLACE(text,'http://cyoy.cn/','http://9nas.c
 建议两条都要执行。
 ====================
 
-  UPDATE typecho_contents SET text = REPLACE(text, 'http://typecho.cyoy.cn/usr/',  'https://aluz.cn/usr/');
+  UPDATE typecho_contents SET text = REPLACE(text, 'http://typecho.cyoy.cn/usr/',  'https://cyoy.cn/usr/');
+
+
+
+
+
+
+
+
+
+
+

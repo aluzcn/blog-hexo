@@ -1,4 +1,4 @@
----
+﻿---
 title: "wordpress更新Missing archive file出错"
 date: 2016-02-16 19:56:36
 cid: 624
@@ -13,4 +13,15 @@ layout: post
 
 <p>　　远程登陆vps，进入temp目录，点安全，选择user用户，分配除&ldquo;完全控制&rdquo;和&ldquo;特殊的权限&rdquo;<br />
 	外的权限就行了。</p>
+
+
+
+
+
+
+
+
+
+
+
 

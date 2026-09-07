@@ -1,4 +1,4 @@
----
+﻿---
 title: "win7建立WebDisk"
 date: 2018-09-02 21:02:00
 cid: 698
@@ -17,4 +17,15 @@ https加密传输，那就要填写bluehost的原始网址，而不是自己绑�
 本人的是 https://md-hk-??.webhostbox.net:20??/
 
 
-  [1]:  /images/2018/09/1f.png
+  [1]: https://img.cyoy.cn/hexo/images/2018/09/1f.png
+
+
+
+
+
+
+
+
+
+
+

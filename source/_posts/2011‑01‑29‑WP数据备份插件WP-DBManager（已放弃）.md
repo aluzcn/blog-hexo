@@ -1,4 +1,4 @@
----
+﻿---
 title: "WP数据备份插件WP-DBManager（已放弃）"
 date: 2011-01-29 16:39:45
 cid: 361
@@ -30,4 +30,15 @@ layout: post
 </li>
 </ul>
 　　在旧站备份后上传到新站的/wp-content/backup-db 目录下，然后登陆控制板Database -&gt; Manage  Backup DB -&gt; Restore 即可，还需要登陆phpadmin将wp_options 表中的 siteurl  修改为新站地址，还有后台常规选项中的URL更改为新站地址。（如果域名是同一个，只是迁移数据就不用修改了。）
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "添加简单易用的wiki（tiddly）"
 date: 2011-02-10 19:07:15
 cid: 377
@@ -18,3 +18,14 @@ layout: post
 　　歡迎來到TiddlyWiki使用教學中文版：http://web.nlhs.tyc.edu.tw/~lss/wiki/TiddlyWikiTutorialTW.html
 
 　　想不到呀，原来是这样的，它是个非线性阅读的个人数字记事本。只能在本地编辑，不能在网络上编写。本地完成后到网络上展示或者调用。　http://my.opera.com/international/blog/tiddlywiki
+
+
+
+
+
+
+
+
+
+
+

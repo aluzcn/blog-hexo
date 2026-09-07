@@ -1,4 +1,4 @@
----
+﻿---
 title: "qnap nas同步vps网站数据"
 date: 2016-02-12 18:41:19
 cid: 617
@@ -22,11 +22,22 @@ layout: post
 
 <p>　　3、远程登陆vps，在电脑上Qsync图标上点&ldquo;偏好设定&rdquo;。如下图。</p>
 
-<p>&nbsp;&nbsp;<img alt="75341734" class="alignnone size-full wp-image-2162" height="501" src=" /images/2016/02/75341734.jpg" style="" title="" width="608" /></p>
+<p>&nbsp;&nbsp;<img alt="75341734" class="alignnone size-full wp-image-2162" height="501" src="https://img.cyoy.cn/hexo/images/2016/02/75341734.jpg" style="" title="" width="608" /></p>
 
 <p>　　这样vps网站的所有数据都传到nas上了，以后需要时只要把相关如图片文件复制到nas/web/wp-contont<br />
 	目录中覆盖就行了。这样干脆彻底地备份数据了。</p>
 
 <p>　　总结，qnap的同步软件所能够同步的目录必须是在第2步中能事先选择设定好的。对nas来说只能是根目<br />
 	录，不能是子目录，而电脑端是可以任何一个目录。</p>
+
+
+
+
+
+
+
+
+
+
+
 

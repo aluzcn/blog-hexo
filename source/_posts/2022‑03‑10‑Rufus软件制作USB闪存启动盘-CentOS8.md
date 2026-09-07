@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rufus软件制作USB闪存启动盘-CentOS8"
 date: 2022-03-10 21:24:58
 cid: 1368
@@ -14,3 +14,14 @@ layout: post
 
 <a href="https://www.jianshu.com/p/236554fe5ab7" target="_blank" rel="noopener">制作U盘启动盘，CentOS系统安装</a></li>
 </ol>
+
+
+
+
+
+
+
+
+
+
+

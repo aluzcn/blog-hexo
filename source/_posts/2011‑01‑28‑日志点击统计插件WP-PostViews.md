@@ -1,4 +1,4 @@
----
+﻿---
 title: "日志点击统计插件WP-PostViews"
 date: 2011-01-28 14:41:53
 cid: 355
@@ -25,7 +25,7 @@ WordPress自身不带文章浏览统计功能，这可以说是WP的一大遗憾
 
 点击设置选项卡下的PostsViews选项进入插件设置界面：
 
-<a href=" /images/2011/01/20251126204842671.jpg"><img class="aligncenter size-full wp-image-5522" src=" /images/2011/01/20251126204842671.jpg" alt="" width="639" height="396" /></a>
+<a href="https://img.cyoy.cn/hexo/images/2011/01/20251126204842671.jpg"><img class="aligncenter size-full wp-image-5522" src="https://img.cyoy.cn/hexo/images/2011/01/20251126204842671.jpg" alt="" width="639" height="396" /></a>
 <strong><!--more-->
 Count Views From：</strong>设置被统计的用户群
 
@@ -53,7 +53,7 @@ Home Page（首页）、Singe Posts（文章页）、Pages（页面）、Archive
 
 在当前WordPress博客主题支持widget（小工具）前提下，在可用小工具中把Views小工具放到相应位置即可。
 
-<a href=" /images/2011/01/20251126204854939.jpg"><img class="aligncenter size-full wp-image-5523" src=" /images/2011/01/20251126204854939.jpg" alt="" width="261" height="502" /></a>
+<a href="https://img.cyoy.cn/hexo/images/2011/01/20251126204854939.jpg"><img class="aligncenter size-full wp-image-5523" src="https://img.cyoy.cn/hexo/images/2011/01/20251126204854939.jpg" alt="" width="261" height="502" /></a>
 
 Statistics Type
 
@@ -108,7 +108,7 @@ WP-PostViews插件使用二：
 
 在文章中显示该文章的浏览数量
 
-<a href=" /images/2011/01/20251126204909621.jpg"><img class="aligncenter size-full wp-image-5524" src=" /images/2011/01/20251126204909621.jpg" alt="" width="254" height="70" /></a>
+<a href="https://img.cyoy.cn/hexo/images/2011/01/20251126204909621.jpg"><img class="aligncenter size-full wp-image-5524" src="https://img.cyoy.cn/hexo/images/2011/01/20251126204909621.jpg" alt="" width="254" height="70" /></a>
 
 1.点击外观选项卡下的编辑选项进入主题编辑界面，选择主题文件single.php文件进行编辑
 
@@ -119,3 +119,14 @@ WP-PostViews插件使用二：
 3.提交更新文件即可。
 
 </div>
+
+
+
+
+
+
+
+
+
+
+

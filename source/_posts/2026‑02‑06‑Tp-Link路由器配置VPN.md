@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tp-Link路由器配置VPN"
 date: 2026-02-06 21:27:00
 cid: 1523
@@ -28,7 +28,18 @@ layout: post
 当然可以填写一样的数值，建议不一样。
 
 
-  [1]:  /images/2026/02/112074367.webp
-  [2]:  /images/2026/02/606381110.webp
-  [3]:  /images/2026/02/111509175.webp
-  [4]:  /images/2026/02/3014313056.webp
+  [1]: https://img.cyoy.cn/hexo/images/2026/02/112074367.webp
+  [2]: https://img.cyoy.cn/hexo/images/2026/02/606381110.webp
+  [3]: https://img.cyoy.cn/hexo/images/2026/02/111509175.webp
+  [4]: https://img.cyoy.cn/hexo/images/2026/02/3014313056.webp
+
+
+
+
+
+
+
+
+
+
+

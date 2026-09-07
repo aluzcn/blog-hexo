@@ -1,4 +1,4 @@
----
+﻿---
 title: "链路汇集和中继（Link Aggregation and Trunking）"
 date: 2011-01-26 16:22:00
 cid: 353
@@ -30,4 +30,15 @@ layout: post
 ![请输入图片描述][1]
 
 
-  [1]:  /images/2011/01/082205otU.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/01/082205otU.jpg
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NexusPHP架设PT服务"
 date: 2011-03-11 12:33:00
 cid: 409
@@ -37,4 +37,15 @@ Warning: Memcache::connect() [memcache.connect]: Can’t connect to localhost:11
 到这里PT基本上就架设完毕了，现在只需要利用管理员帐号对站点进行设置和调整就可以了。
 
 
-  [1]:  /images/2011/03/Snap21.jpg
+  [1]: https://img.cyoy.cn/hexo/images/2011/03/Snap21.jpg
+
+
+
+
+
+
+
+
+
+
+

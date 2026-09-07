@@ -1,4 +1,4 @@
----
+﻿---
 title: "Windows 2000下安装PHP4及MySQL大揭密"
 date: 2005-06-04 11:30:18
 cid: 316
@@ -6,7 +6,7 @@ categories: [网络]
 layout: post
 ---
 
-<a href=" /images/2005/06/20251127104535496.gif"><img class="aligncenter size-full wp-image-5582" src=" /images/2005/06/20251127104535496.gif" alt="" width="630" height="70" /></a>
+<a href="https://img.cyoy.cn/hexo/images/2005/06/20251127104535496.gif"><img class="aligncenter size-full wp-image-5582" src="https://img.cyoy.cn/hexo/images/2005/06/20251127104535496.gif" alt="" width="630" height="70" /></a>
 
 我的php4和mysql的软件包是php-4.0.1pl2-Win32.zip、mysql-3.23.19-beta-win.zip。
 
@@ -21,3 +21,14 @@ layout: post
 接着，选中“ISAPI筛选器”页，单击“添加”按钮；在“筛选器名称”中输入“php”，在“可执行文件”中输入“C:WINNTsystem32php4isapi.dll”，点击“确定”。
 接着，选中“文档”页，单击“添加”按钮；在“默认文档名”中输入“index.php”，点击“确定”，并将其提高到最高级。您还可以添加常用的php文件名，如：“default.phtml”、“index.php3”等。
 关闭所有窗口，重启系统后，可打开IE浏览器进行测试。
+
+
+
+
+
+
+
+
+
+
+
