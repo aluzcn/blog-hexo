@@ -627,6 +627,3 @@ CDN:
   custom_format:
   option:
 
-meta:
-  - name: robots
-    content: noindex, nofollow
