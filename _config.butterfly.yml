@@ -164,7 +164,7 @@ aside:
       link: https://github.com/aluzcn
   card_announcement:
     enable: true
-    content: '🎉私人笔记，请离开啦。'
+    content: '🎉 私人笔记，烦请离开啦。'
   card_recent_post:
     enable: true
     limit: 6
