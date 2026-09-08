@@ -1,6 +1,5 @@
 ---
 title: 测试EzImage插件
-top_img: false
 tags: []
 categories: []
 description: ''

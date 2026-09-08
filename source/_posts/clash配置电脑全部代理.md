@@ -1,6 +1,5 @@
 ---
 title: VSCode Alt+I、Alt+T 快捷键设置
-top_img: false
 tags: []
 categories: []
 description: ''

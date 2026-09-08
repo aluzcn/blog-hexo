@@ -29,8 +29,8 @@ social:
 
 favicon: /img/favicon.png
 avatar:
-  img: /img/butterfly-icon.png
-  effect: true
+  img: /img/avatar.png
+  effect: false
 
 disable_top_img: false
 default_top_img: /img/banner.jpg

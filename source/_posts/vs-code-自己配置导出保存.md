@@ -1,6 +1,5 @@
 ---
 title: vs code 自己配置导出保存
-top_img: false
 tags:
   - hexo
 description: ''
