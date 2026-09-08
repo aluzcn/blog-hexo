@@ -97,10 +97,7 @@ categories:
 
 TortoiseGit 自带设置，可以让它**只在 Git 仓库文件夹显示菜单**
 
-1. 任意文件夹右键 → `TortoiseGit` → **设置**
-2. 左侧找到：**外壳（Shell）**
-3. 勾选：**仅在 Git 仓库中显示上下文菜单** ✅
-4. 点击确定保存。
+![只对blog文件生效](https://img.cyoy.cn/hexo/images/uploads/xwgyj.png)
 
 设置完成后效果：
 
