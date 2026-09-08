@@ -156,15 +156,15 @@ aside:
     category: true
   card_author:
     enable: true
-    description: '热爱技术，乐于分享'
+    description: '热爱技术，分享生活'
     button:
       enable: true
       icon: fab fa-github
       text: Github
-      link: https://github.com/xxxx
+      link: https://github.com/aluzcn
   card_announcement:
     enable: true
-    content: '🎉个人笔记。你碰巧进入，可以离开啦。'
+    content: '🎉私人笔记，请离开啦。'
   card_recent_post:
     enable: true
     limit: 6
