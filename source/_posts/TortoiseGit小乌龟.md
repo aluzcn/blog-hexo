@@ -78,7 +78,10 @@ categories:
 > 
 > Diff、Merge、Blame，都是点菜单后自动唤起，不用手动运行。
 
-![tortoiseit.png](/images/tortoiseit.png)
+<div align="center">
+<img src="https://img.cyoy.cn/hexo/images/uploads/tortoiseit.png" alt="说明文字" width="60%">
+</div>
+
 ### 现象说明
 
 - 在普通文件夹点开：菜单全部显示，但是点击【提交、推送】会报错提示 “不是 Git 仓库”。
@@ -96,8 +99,10 @@ categories:
 ### 方案 2：不想在非 Git 文件夹看到这一堆菜单
 
 TortoiseGit 自带设置，可以让它**只在 Git 仓库文件夹显示菜单**
+<div align="center">
+<img src="https://img.cyoy.cn/hexo/images/uploads/xwgyj.png" alt="说明文字" width="65%">
+</div>
 
-![只对blog文件生效](https://img.cyoy.cn/hexo/images/uploads/xwgyj.png)
 
 设置完成后效果：
 
