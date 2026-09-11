@@ -116,9 +116,11 @@ search:
 
 # -------- hexo-hide-posts 隐藏文章配置 hidden:true
 hide_posts:
+  enable: true
   filter: hidden
-  public_generators: []
+  allowlist_generators: ['all-posts']
   noIndex: true
+
 
 # -------- hexo-blog-encrypt 全局密码，tags: [private] 自动启用加密
 encrypt:
