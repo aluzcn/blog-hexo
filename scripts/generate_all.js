@@ -1,9 +1,13 @@
 // scripts/generate_all.js
 hexo.extend.generator.register('all-posts', function(locals){
-  // Collection调用toArray()转为普通数组，再合并
-  const publicPosts = locals.posts.toArray();
-  const hiddenPosts = locals.hidden_posts.toArray();
-  const posts = publicPosts.concat(hiddenPosts).sort((a,b) => b.date - a.date);
+  const allRawPosts = locals.posts.toArray();
+  // 去重，根据path过滤重复文章
+  const seenPath = new Set();
+  const posts = allRawPosts.filter(post => {
+    if (seenPath.has(post.path)) return false;
+    seenPath.add(post.path);
+    return true;
+  }).sort((a,b) => b.date - a.date);
 
   let listHtml = `<!DOCTYPE html>
 <html>
