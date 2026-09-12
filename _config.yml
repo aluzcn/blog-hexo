@@ -12,8 +12,10 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 url: https://cyoy.cn
-permalink: posts/:year/:month/:day/:hour/:minute/:second/
-
+permalink: posts/:year-:month-:name/
+pretty_urls:
+  trailing_index: false
+  trailing_html: false
 
 # Directory
 source_dir: source
