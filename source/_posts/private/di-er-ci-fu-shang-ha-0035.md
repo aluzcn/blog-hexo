@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "第二次赴上海"
 date: 2016-02-14 15:30:44
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; 昨晚下了点雪，早晨起来如果不是看到室外车子顶上的一点积雪那一点都不觉得。

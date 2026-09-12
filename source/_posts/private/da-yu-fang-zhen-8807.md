@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "打预防针"
 date: 2017-09-27 20:20:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 ??刚出生时打了两针，今天按事先的联系应该去打出院后的第一针了。

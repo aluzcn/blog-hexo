@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "新领导看望"
 date: 2006-12-25 23:52:22
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

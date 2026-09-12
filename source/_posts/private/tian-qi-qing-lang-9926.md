@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "天气晴朗"
 date: 2011-02-03 10:04:52
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　今年春节的天气真好，温度也明显回升了。

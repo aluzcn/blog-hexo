@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "老干部外出开会"
 date: 2008-10-21 18:17:58
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

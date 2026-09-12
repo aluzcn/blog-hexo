@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "测试手机发帖"
 date: 2009-02-01 09:57:27
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

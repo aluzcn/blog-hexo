@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "换届选举宣传工作"
 date: 2007-11-02 05:27:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

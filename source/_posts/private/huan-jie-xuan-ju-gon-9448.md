@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "换届选举工作会议并业务培训会"
 date: 2007-09-26 23:37:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

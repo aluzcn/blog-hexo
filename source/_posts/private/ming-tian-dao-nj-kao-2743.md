@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "明天到NJ考试"
 date: 2007-05-11 16:59:53
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

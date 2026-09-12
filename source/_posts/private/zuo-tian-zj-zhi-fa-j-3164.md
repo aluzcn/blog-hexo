@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "昨天ZJ执法检查"
 date: 2008-11-07 18:24:32
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

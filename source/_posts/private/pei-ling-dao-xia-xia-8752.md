@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "陪领导下乡"
 date: 2007-05-24 00:24:57
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

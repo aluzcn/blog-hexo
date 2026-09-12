@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "这几天上班比较注意少说话"
 date: 2005-06-07 02:06:29
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

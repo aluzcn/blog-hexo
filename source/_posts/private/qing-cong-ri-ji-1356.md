@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "青葱日记"
 date: 2015-12-15 22:04:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　今天一天都在试用不同的iPhone6s日记软件，最后经过周拆确定青葱日记本。 

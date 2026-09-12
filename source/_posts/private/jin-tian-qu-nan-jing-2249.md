@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天去南京买大容量的ＭＰ３"
 date: 2005-07-05 22:00:47
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

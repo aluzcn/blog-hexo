@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "买附房"
 date: 2016-03-28 16:19:16
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　上午老婆到建行办了公积金贷款，准备贷近50万（差一点）。办好后，可以<br />

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "2010年结束了"
 date: 2011-01-31 09:54:09
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　上午9点召团拜会，这意味着2010年的各项工作已经结束。

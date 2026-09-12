@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天上午批评王"
 date: 2005-05-11 00:23:47
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

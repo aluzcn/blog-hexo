@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "支部献爱心\/赞助"
 date: 2008-01-17 01:11:01
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

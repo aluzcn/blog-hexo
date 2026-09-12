@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "bluehost数据库"
 date: 2018-09-02 10:04:24
 categories: [Nas]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 刚刚用1500元的价格购买了bluehost的5年主机，无限空间、无限流量、

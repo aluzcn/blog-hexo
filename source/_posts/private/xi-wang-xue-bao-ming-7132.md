@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "希望学报名"
 date: 2024-05-16 21:14:15
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:paragraph -->

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "这几天重新安装下水管"
 date: 2005-07-18 21:56:26
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

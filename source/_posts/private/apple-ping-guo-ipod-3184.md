@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "Apple\/苹果 iPod苹果耳机"
 date: 2011-06-19 11:24:18
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 原来的耳机被EZ带到学校去了，这段时间都是用的创新的，可能是苹果用习惯总是感觉不舒服。

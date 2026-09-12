@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "最喜欢的宝宝合影照"
 date: 2018-08-26 10:42:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 宝宝宝一周岁过生日，中午到容Nan吃饭。老爸用手机自拍的。怎么样？

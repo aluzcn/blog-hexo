@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "苏果超市开业"
 date: 2007-01-27 16:26:59
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

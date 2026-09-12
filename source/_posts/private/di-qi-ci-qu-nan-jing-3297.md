@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "第七次去南京"
 date: 2016-04-15 15:35:37
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天上午常委会动人了，我的一个好朋友下乡当人大主席，没想到，<br />

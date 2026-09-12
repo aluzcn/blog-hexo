@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "召开领导干部研讨会"
 date: 2008-11-24 06:12:44
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

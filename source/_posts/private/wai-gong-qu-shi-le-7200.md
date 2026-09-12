@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "外公去世了"
 date: 2008-03-15 16:54:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　因为Y要写一份向市领导汇报工作的材料，上午全体同志到办公室加班。

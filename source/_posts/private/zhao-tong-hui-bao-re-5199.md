@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "找童汇报人代会"
 date: 2008-12-05 23:15:40
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

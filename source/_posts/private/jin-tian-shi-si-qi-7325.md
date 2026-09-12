@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天是四七"
 date: 2015-11-27 16:10:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　儿啊，今天是四七，你离开我们已经有28天了，你还从来没

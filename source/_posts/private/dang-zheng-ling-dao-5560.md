@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "党政领导干部选拔任用工作条例"
 date: 2005-09-17 22:06:46
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

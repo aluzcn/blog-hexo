@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "痛风发作了"
 date: 2007-12-16 18:19:24
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 昨天、今天是休息日，但办公室全体同志加班忙材料。

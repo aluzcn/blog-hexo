@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "锻炼"
 date: 2016-01-26 10:00:17
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天入住酒店，健身设施刚好能锻炼反手胳膊，很有效果。</p>

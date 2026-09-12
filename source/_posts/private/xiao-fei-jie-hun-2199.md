@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "小菲结婚"
 date: 2011-01-24 01:01:52
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

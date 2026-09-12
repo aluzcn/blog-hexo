@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "你会打“囍”字吗"
 date: 2007-03-04 19:57:23
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

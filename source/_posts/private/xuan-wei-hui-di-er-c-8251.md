@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "选委会第二次会议"
 date: 2007-10-24 23:58:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

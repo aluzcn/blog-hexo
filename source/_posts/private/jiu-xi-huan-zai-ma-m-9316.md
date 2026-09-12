@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "就喜欢在妈妈身上摇摇睡"
 date: 2018-09-05 09:00:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <img src="https://img.cyoy.cn/hexo/images/2018/09/41029244-5721-4af5-b23e-56cf92300210-1527-0000004f737c2ffc_file.jpg" class="alignnone size-medium wp-image-3174" width="480" height="640" alt="">

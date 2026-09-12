@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "2001年儿子照片"
 date: 2006-11-27 10:08:33
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

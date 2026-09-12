@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "软环境建设座谈会"
 date: 2007-03-20 09:52:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "心脏CTA报告"
 date: 2024-05-28 09:27:47
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:paragraph -->

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天看望吴、行政科长"
 date: 2006-10-18 23:03:14
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

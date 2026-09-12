@@ -1,10 +1,8 @@
 ---
-title: {{ title }}
+title: ""
 date: {{ date }}
-updated: {{ date }}
-tags: []
-categories: []
+categories: [生活]
+tags: [private, 软件]
 description: ""
-toc: true
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
-

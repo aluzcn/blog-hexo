@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "干脆开路吧"
 date: 2019-09-12 11:06:34
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:paragraph -->

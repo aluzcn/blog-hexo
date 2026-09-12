@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "慰问拆迁小组的同志"
 date: 2007-07-31 23:27:01
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

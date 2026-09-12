@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "到NJ买书"
 date: 2007-05-17 17:04:41
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "我的心态有意思"
 date: 2019-09-14 20:06:17
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 饭店朱老板送了几个菜，晚上把爸妈和外甥请到家。

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "新来的临时工"
 date: 2007-08-03 00:34:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

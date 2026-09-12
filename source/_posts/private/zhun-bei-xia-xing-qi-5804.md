@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "准备下星期一叫临时工来上班"
 date: 2007-08-09 23:13:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

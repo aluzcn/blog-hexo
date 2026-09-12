@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "换届短信息\/巡视组谈话"
 date: 2007-10-31 00:21:04
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

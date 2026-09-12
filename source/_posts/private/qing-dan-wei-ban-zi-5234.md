@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "请单位班子"
 date: 2018-09-10 18:28:05
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 瑶瑶满周时考虑到省委巡视组在，所以没有请，今天补上。

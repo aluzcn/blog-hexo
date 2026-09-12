@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "找领导要年终和会议经费"
 date: 2006-12-04 18:51:30
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

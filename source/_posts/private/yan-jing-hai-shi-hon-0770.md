@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "眼睛还是红，急人"
 date: 2017-09-12 20:20:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 ??前天开始红，昨天上午到药店买了生理盐水和红霉素眼膏。

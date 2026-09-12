@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "mz办公室IP配置"
 date: 2011-05-30 09:19:31
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 IP：　　　　222.186.72.172

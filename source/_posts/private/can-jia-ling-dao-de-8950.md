@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "参加领导的活动"
 date: 2008-09-07 18:31:37
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

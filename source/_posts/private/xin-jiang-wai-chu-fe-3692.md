@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "新疆外出费用"
 date: 2008-06-22 10:41:34
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

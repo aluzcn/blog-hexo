@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "理论研究会开票问题"
 date: 2007-03-24 00:27:11
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

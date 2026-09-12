@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "没希望了\/本届委员散伙餐"
 date: 2007-11-08 03:41:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

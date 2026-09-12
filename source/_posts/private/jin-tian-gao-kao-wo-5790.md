@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天高考，我到镇江科协"
 date: 2005-06-08 01:31:29
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

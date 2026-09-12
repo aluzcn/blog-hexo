@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "昨天是疯狂的一天"
 date: 2007-05-02 06:02:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今年第二场雪"
 date: 2016-02-01 12:25:02
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　上午去拿钥匙，感觉天气还不错，中午就明显阴沉了。</p>

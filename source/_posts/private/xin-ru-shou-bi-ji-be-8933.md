@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "新入手笔记本电脑"
 date: 2016-01-27 16:16:56
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天在上海打电话定的，今天下午就到货了。速度真快。</p>

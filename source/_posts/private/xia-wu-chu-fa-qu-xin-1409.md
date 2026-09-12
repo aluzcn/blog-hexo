@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "下午出发去新疆"
 date: 2011-09-15 08:52:50
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　一个星期多一点时间，重点是北疆。

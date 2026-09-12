@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "KX老Y"
 date: 2008-07-22 00:48:24
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

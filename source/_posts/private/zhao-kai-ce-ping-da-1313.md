@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "召开测评大会"
 date: 2008-11-12 17:59:27
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

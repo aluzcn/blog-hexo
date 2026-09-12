@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "推荐后备干部"
 date: 2008-03-22 23:23:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

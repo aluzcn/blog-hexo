@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "莫名其妙"
 date: 2009-02-27 09:40:06
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

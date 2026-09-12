@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "请老师\/陈市长"
 date: 2008-07-27 18:08:56
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "温度太高了"
 date: 2009-02-13 09:26:27
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

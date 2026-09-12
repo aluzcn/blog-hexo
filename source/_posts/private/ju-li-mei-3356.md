@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "距离美"
 date: 2007-05-20 10:27:42
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "旧房子已经租出去了"
 date: 2006-10-22 21:14:27
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

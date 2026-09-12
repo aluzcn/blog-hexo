@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "储灵显影"
 date: 2015-12-07 21:07:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 ![请输入图片描述][1]

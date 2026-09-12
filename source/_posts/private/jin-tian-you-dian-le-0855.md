@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天有点累"
 date: 2006-11-07 01:19:59
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

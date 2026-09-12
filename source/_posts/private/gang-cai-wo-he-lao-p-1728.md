@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "刚才我和老婆又流眼泪"
 date: 2016-02-15 09:22:21
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; 早晨6:45挂号后我和小周在宾馆吃早饭，老婆担心是否要抽血所以就回房间了。

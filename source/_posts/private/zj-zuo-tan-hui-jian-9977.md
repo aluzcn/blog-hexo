@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "zj座谈会\/建华工作调整"
 date: 2007-07-24 00:47:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "到镇村调研\/临时工实习"
 date: 2007-08-13 18:27:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

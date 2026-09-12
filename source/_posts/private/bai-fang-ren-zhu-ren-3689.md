@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "拜访任主任"
 date: 2016-03-19 14:53:05
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天第六次到上海得知试管失败，回家的路上就打电话给双根。</p>

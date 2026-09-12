@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "第三次去上海"
 date: 2016-02-21 11:06:10
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; 上午8:50从家里出发去看儿子，遇到管理处的人在加班。看门的师傅也已经认识我们了，特意告诉我们刚刚给树浇过水。

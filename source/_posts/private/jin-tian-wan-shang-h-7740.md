@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天晚上和陈市长吃饭"
 date: 2005-05-08 04:49:11
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

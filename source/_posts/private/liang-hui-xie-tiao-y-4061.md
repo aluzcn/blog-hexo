@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "两会协调\/轧石企业视察"
 date: 2008-11-13 18:13:53
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

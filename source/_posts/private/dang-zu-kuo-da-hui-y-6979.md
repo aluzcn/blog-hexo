@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "党组扩大会议\/老干部"
 date: 2007-10-09 23:03:54
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

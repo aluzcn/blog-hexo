@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "单位老干部\/困难职工"
 date: 2009-01-19 03:06:28
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

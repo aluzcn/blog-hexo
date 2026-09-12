@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "请财经、社事委"
 date: 2008-04-01 18:13:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

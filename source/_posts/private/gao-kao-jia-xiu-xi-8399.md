@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "高考加休息"
 date: 2007-06-09 20:13:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

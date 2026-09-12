@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "政府大门被堵了"
 date: 2008-06-19 17:36:25
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

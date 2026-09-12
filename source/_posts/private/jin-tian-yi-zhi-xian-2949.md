@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天一直想儿子"
 date: 2016-04-26 15:41:58
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　上个星期搞的推介活动结束了，工作一下清闲下来。</p>

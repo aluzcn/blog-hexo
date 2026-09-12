@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "准备外出考察"
 date: 2007-04-03 18:16:20
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

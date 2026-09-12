@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "陈兰\/李贺军\/干部调动"
 date: 2005-07-22 00:37:40
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

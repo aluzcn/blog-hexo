@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "手机使用google日历问题"
 date: 2012-09-03 21:14:44
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 S planner 中有兩個日曆，一個是我的日曆，一個是 google 帳號日曆。我的日曆會與 kies 同步電腦中的 outlook 日曆，但無法同步到 google 帳號日曆。而 s planner 中的 google 日曆會與網上的 google 日曆同步。

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "农家乐"
 date: 2011-04-25 09:37:12
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　这几天的天气真好，阳光明媚，温度也很适宜。

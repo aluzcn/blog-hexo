@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "材料准备到位"
 date: 2007-07-25 18:28:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

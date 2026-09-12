@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "大师看房"
 date: 2015-12-17 21:06:02
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　儿：今天上午大仙姑专门从北京来看房，最后确定在维也纳楼王303室，大概185万。</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　晚上得到消息保险公司到处调查，到句容并到东航公司找了车间的郭书记、邹鑫和另</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">外一个人了解情况，还找到你看病的记录。明天杨叔叔开车，爸妈和小姑父到车间找你们</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">领导。</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　儿啊，你为什么这样啊。</span></p>

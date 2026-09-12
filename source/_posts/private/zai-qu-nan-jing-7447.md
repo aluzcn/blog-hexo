@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "再去南京"
 date: 2016-04-06 17:04:43
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　上一次去南京，钱主任开了药，等来第2-3天再去。</p>

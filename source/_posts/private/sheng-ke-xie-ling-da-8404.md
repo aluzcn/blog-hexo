@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "省科协领导来句调研"
 date: 2005-06-16 15:29:30
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

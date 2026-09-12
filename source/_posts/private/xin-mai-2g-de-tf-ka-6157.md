@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "新买2G的TF卡"
 date: 2006-12-27 15:37:35
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

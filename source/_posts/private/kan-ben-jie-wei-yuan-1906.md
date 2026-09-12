@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "看本届委员的纪念品\/老干部外出结帐"
 date: 2007-10-26 06:15:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "去看新房装修"
 date: 2016-03-12 16:17:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 昨天从上海回来，对比南京的检测数据，泡几乎没长，晚上流眼泪了。

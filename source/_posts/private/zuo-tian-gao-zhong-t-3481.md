@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "昨天高中同学聚会"
 date: 2005-06-22 03:00:56
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

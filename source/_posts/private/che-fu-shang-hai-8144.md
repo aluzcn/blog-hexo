@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "车赴上海"
 date: 2016-01-24 12:45:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>&nbsp; &nbsp; &nbsp; &nbsp; 早晨9点看过儿子后私车赴上海，准备明天到仁济医院。</p>

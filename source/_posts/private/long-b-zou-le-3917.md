@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "龙B走了"
 date: 2020-10-24 10:26:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 上午带宝贝去矿坑公园，接到国P的电话，龙B昨天晚上在监狱走了。人啊......

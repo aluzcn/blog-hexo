@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "昨天服务工作"
 date: 2007-01-26 00:51:17
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

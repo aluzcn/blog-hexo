@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "删除光感解锁"
 date: 2011-11-11 14:19:57
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　安卓系统G12在安装光感解锁程序后正常无法删除。上网查找办法。

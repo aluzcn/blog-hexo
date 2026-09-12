@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "很长时间没有更新了"
 date: 2009-05-05 09:35:20
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

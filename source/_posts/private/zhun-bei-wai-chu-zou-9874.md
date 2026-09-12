@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "准备外出走走"
 date: 2011-06-21 15:26:52
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　已经一年多时间没外出走走了，有点闷。

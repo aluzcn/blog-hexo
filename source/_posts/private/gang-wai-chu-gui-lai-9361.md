@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "刚外出归来"
 date: 2007-06-23 09:20:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

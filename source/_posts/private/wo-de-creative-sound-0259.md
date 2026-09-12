@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "我的Creative Sound Blaster Z声卡说明"
 date: 2020-03-13 22:19:00
 categories: [网络]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <strong>Creative Sound Blaster Z</strong>

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "天气真好"
 date: 2016-02-09 14:44:05
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　从昨天开始温度就明显升高了，今天阳光明媚暖洋洋的，像3月底一样。</p>

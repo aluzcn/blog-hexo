@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "电视机修好了"
 date: 2008-11-16 20:00:25
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

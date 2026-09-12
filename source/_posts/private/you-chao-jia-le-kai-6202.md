@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "又吵架了\/开票的事"
 date: 2007-04-12 19:12:30
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

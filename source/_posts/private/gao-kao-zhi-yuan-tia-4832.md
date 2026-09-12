@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "高考志愿填报系统"
 date: 2009-06-15 16:54:39
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

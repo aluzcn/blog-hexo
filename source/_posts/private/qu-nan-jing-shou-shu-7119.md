@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "去南京手术"
 date: 2016-04-18 06:57:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 昨天晚上下雨了，今早起来天气真好。空气清新，阳光明媚。

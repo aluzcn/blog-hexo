@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "下午胡部长来找我谈心"
 date: 2008-01-18 00:11:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

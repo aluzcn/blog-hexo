@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "抗旱捐款、丹阳、金钥匙外出、补课"
 date: 2005-07-10 00:39:35
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

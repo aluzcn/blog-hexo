@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "在家休息一周"
 date: 2017-11-13 13:13:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
        上上个星期到宁国交流学习，回来后连续几场活动身体有点吃不消了。

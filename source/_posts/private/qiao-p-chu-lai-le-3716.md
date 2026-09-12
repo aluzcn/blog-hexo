@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "巧P出来了"
 date: 2008-06-21 18:01:07
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

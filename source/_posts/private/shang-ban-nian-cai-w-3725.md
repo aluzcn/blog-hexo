@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "上半年财务情况"
 date: 2008-07-10 05:53:36
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

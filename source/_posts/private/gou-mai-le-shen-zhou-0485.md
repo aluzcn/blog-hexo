@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "购买了神州笔记本电脑"
 date: 2005-07-11 16:53:37
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

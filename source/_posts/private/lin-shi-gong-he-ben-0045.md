@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "临时工和本人本次可能的信息"
 date: 2007-08-11 00:21:24
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

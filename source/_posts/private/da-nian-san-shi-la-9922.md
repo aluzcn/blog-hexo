@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "大年三十啦"
 date: 2007-02-17 10:45:22
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

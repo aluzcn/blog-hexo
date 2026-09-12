@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "最远的你是我最近的爱"
 date: 2011-07-22 11:07:30
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <a href='http://url.9ku.com/wma.asp?ohcc/file2/R/0056/11.Wma' >车继铃的歌</a>

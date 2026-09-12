@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "高考有感"
 date: 2005-06-09 15:59:13
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

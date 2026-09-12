@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "宝贝发烧了"
 date: 2020-12-31 07:46:22
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:paragraph -->

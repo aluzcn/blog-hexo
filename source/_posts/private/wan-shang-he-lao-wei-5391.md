@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "晚上和老韦等聚会"
 date: 2007-11-13 00:10:46
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

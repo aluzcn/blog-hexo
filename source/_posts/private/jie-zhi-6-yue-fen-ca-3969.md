@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "截止6月份财务等事\/后备干部推荐"
 date: 2007-07-05 23:49:42
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天下午动人"
 date: 2005-08-29 17:50:38
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

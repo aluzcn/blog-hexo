@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "吴的老公公去世"
 date: 2007-06-24 17:14:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

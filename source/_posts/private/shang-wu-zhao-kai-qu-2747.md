@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "上午召开全市党建工作会议"
 date: 2007-03-08 00:30:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "又是一年春－牛年大吉"
 date: 2009-01-01 09:30:26
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

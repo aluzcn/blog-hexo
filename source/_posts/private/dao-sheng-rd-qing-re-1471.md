@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "到省RD请人上课"
 date: 2007-03-14 06:39:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

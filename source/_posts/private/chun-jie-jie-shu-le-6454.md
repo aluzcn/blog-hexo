@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "春节结束了"
 date: 2016-02-13 15:36:37
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　就这样结束了，25年来第一次没有儿子。</p>

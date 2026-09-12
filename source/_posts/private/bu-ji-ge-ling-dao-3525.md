@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "补几个领导"
 date: 2006-12-26 23:24:18
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

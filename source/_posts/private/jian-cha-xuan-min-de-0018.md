@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "检查选民登记工作\/下午召开推进会"
 date: 2007-11-07 03:24:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "爸妈的房子"
 date: 2007-11-05 01:39:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

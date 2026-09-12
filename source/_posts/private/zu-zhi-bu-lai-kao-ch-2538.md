@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "组织部来考察"
 date: 2010-12-22 18:41:45
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "国庆后真累"
 date: 2011-10-14 10:05:43
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　国庆长假期间参加了N场婚宴和一次丧事，小酒不断。累。

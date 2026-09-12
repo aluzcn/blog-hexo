@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "外出结帐\/到天王查看灾情"
 date: 2007-07-04 18:37:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

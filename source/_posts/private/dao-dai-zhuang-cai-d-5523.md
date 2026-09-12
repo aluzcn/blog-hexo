@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "到戴庄踩点"
 date: 2007-07-24 18:26:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

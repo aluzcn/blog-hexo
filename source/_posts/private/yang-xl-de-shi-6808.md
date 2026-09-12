@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "杨XL的事"
 date: 2007-07-10 01:23:03
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

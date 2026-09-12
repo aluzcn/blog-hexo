@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "落实外出的具体事宜"
 date: 2007-06-05 23:49:41
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

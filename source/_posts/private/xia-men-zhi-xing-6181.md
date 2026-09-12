@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "厦门之行"
 date: 2007-09-23 18:33:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

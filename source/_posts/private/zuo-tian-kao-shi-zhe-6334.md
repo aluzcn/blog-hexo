@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "昨天考试真的累人"
 date: 2007-05-13 09:33:34
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

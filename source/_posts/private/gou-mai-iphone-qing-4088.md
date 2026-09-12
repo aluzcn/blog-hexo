@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "购买iphone青葱日记软件"
 date: 2015-12-15 10:33:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 今天购买了日记软件

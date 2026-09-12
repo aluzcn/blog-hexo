@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天到矿业\/陈\/..."
 date: 2005-08-26 18:07:31
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

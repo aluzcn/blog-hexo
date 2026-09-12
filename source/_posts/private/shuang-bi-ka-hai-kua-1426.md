@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "双币卡还款"
 date: 2011-05-26 22:22:51
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　在工商银行办理了双币卡，通过Ipad购买了收费程序，当时通过信用卡验证，是1.99美元。

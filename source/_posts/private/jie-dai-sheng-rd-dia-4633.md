@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "接待省RD调研"
 date: 2008-06-27 01:16:40
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

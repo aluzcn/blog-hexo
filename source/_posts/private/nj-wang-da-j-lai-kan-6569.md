@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "nj王大J来看我"
 date: 2016-01-14 16:19:23
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　路啊：前天老爸毕业后工作的第一个单位的老朋友来看我，晚上喝了不少酒，<br />

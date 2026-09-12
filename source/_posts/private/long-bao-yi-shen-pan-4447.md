@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "龙宝一审判决了"
 date: 2011-06-21 08:56:10
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 昨天下午宣判的，杨L去听了。

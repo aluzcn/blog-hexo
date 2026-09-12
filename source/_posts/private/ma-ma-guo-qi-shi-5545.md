@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "妈妈过七十"
 date: 2007-12-22 23:31:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

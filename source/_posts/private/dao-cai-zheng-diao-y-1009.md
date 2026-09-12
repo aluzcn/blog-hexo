@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "到财政调研"
 date: 2007-07-13 05:03:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

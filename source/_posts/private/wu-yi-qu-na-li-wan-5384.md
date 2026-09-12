@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "五一去哪里玩？"
 date: 2011-04-22 10:01:29
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　昨天晚上Chen跟我说五一如果没有安排，几家人一起出去玩玩。我很赞同。

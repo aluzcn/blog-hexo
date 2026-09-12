@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "杨xl病假\/换届调研"
 date: 2007-07-30 22:47:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

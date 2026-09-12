@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "龙宝出事了"
 date: 2011-01-11 17:27:07
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "集中项目开工仪式"
 date: 2007-03-07 01:07:13
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "修水管"
 date: 2016-05-01 10:38:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 老hbj的房子原来准备卖的，可前几天有人要租，那就边租边卖吧。

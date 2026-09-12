@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "组织部调查举报信"
 date: 2016-02-23 16:21:53
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　早晨接到组织部的一个电话，说有人举报赵明。</p>

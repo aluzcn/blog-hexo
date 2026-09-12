@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "晚上欢送老纪退休"
 date: 2007-03-09 18:01:19
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

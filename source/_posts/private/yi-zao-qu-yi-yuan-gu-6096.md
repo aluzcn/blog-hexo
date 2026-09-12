@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "一早去医院挂号"
 date: 2016-02-15 08:47:40
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>&nbsp; &nbsp; &nbsp; 6:45医院开始挂号，特需，自动充值200现金。9号。</p>

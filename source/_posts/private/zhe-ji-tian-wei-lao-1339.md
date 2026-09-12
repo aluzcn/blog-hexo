@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "这几天为老科协的事协调麻烦"
 date: 2005-05-31 19:26:25
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

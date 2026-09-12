@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "N85内存、屏幕尺寸等参数"
 date: 2009-02-14 09:34:25
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

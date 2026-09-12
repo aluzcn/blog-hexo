@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "杂志款"
 date: 2006-11-09 00:18:29
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

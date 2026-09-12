@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "墓地茶场"
 date: 2016-04-01 09:58:38
 categories: [学习,生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　清明快到了，明天放假，5号上班。</p>

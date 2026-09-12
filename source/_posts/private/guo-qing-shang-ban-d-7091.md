@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "国庆上班第一天"
 date: 2006-10-08 23:13:45
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

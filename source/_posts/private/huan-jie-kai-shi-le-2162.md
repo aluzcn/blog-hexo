@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "换届开始了"
 date: 2016-04-20 14:43:52
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　单位调来了一个新成员，临时把我的办公室让给她，我搬到会议室。</p>

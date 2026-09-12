@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "令人诅咒的一天"
 date: 2015-10-31 23:06:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　今天是西方的万圣节，昨晚11：15还和儿子微信联系，

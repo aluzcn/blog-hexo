@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "首次去南京找钱主任"
 date: 2016-03-25 16:10:29
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　任主任介绍的，早晨8点出发大概9点半到，先到了东院之后问清楚<br />

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "南京夫子庙推介"
 date: 2016-03-20 14:34:29
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　去年收集民意时有一条是说开展旅游推介不够，所以今年准备多搞几次，<br />

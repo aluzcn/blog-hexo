@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "加班\/蔡喜酒"
 date: 2008-10-19 07:35:24
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

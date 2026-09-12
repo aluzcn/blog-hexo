@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "我的一些个人资料"
 date: 2006-11-11 19:23:51
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

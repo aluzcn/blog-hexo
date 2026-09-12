@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "接待ZJ机关全体同行"
 date: 2007-07-27 18:54:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

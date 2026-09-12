@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "再买一台空调"
 date: 2007-06-02 17:14:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

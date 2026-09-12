@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "N85远程锁闭功能"
 date: 2009-03-28 09:22:17
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

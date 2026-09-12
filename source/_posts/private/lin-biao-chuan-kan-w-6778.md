@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "《林彪传》看完"
 date: 2007-05-22 16:08:46
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

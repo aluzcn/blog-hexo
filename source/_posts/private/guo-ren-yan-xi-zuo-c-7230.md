@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "国人宴席座次礼仪"
 date: 2007-08-10 16:25:15
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

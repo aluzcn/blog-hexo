@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "休息一下"
 date: 2009-07-06 02:20:49
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

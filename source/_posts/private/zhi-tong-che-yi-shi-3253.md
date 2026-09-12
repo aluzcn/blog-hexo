@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "直通车仪式"
 date: 2016-03-21 09:48:07
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 昨天在南京夫子庙搞活动，晚上喝多了。

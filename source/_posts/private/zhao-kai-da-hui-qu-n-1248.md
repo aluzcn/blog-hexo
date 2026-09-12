@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "召开大会\/去NJ买礼品"
 date: 2007-02-28 23:53:16
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

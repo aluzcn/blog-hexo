@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "上午到天w下访处理信访事件"
 date: 2007-05-31 00:09:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

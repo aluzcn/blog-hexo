@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "张W的父亲去世"
 date: 2007-06-26 05:34:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

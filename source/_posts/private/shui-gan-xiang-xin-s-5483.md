@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "谁敢相信“双汇万岁”？（摘）"
 date: 2011-04-01 15:16:48
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　<strong>这么大的企业竟然不顾群众健康，一味赚黑心钱，谁还能相信你，谁还敢相信你。自食其果</strong>

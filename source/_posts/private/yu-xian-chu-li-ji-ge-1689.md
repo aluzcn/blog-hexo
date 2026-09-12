@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "预先处理几个事情"
 date: 2007-06-28 18:23:34
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

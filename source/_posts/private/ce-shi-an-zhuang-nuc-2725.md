@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "测试安装nucleus"
 date: 2011-01-24 08:48:53
 categories: [Nas]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　<p>　　nucleus是群晖官方网上推荐的博客程序之一，下午没事尝试安装了一下。<br />　　nucleus是多用户博客系统，可以建立多个不同博客子网站。<br />　　nucleus有中文语言包。<br />　　nucleus没有RSS导入工具，其主页只提供wordpress的转换工具。<br />　　皮肤感觉不错，蛮好看，起码我比较喜欢。<br />　　<a href="https://cyoy.cn/nucleus/">https://cyoy.cn/nucleus/</a>

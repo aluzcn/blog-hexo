@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "清明扫墓"
 date: 2016-04-04 10:17:15
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　今天是清明节，我一早就起来了。外甥是昨天祭扫他奶奶的，今天是<br />

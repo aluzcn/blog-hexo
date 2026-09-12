@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "会议经费\/送新人报到"
 date: 2007-11-22 19:28:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

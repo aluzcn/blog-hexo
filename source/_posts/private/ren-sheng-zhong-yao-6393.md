@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "人生重要转折点!!!"
 date: 2005-09-04 17:46:52
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

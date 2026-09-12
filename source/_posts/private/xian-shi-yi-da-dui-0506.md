@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "闲事一大堆"
 date: 2006-11-29 00:54:54
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

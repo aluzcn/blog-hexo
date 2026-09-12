@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "主任会议\/经费\/礼品"
 date: 2007-11-20 18:31:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

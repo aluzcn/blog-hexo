@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "为昨天郭的事找大王等人"
 date: 2008-09-17 17:56:31
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

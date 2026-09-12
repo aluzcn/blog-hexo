@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "取J，调研"
 date: 2016-04-12 09:00:06
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天一早就到二院了。</p>

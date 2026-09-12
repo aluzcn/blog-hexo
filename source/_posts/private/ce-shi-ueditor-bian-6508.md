@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "测试Ueditor编辑器1.4.3.1插件"
 date: 2016-01-12 11:01:05
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　<span style="background-color:#FF0000;">现已经放弃使用，特别需要注意的是：使用后经过它上<br />

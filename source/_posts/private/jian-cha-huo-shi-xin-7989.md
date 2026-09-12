@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "检查伙食\/新领导安排"
 date: 2008-12-26 22:55:02
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

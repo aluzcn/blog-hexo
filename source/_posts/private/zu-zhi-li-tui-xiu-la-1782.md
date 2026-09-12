@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "组织离退休老干部活动"
 date: 2007-05-17 02:44:09
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

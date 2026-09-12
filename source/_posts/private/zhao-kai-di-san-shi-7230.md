@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "召开第三十八次常委会"
 date: 2007-09-08 04:59:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

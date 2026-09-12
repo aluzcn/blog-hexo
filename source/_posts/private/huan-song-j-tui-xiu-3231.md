@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "欢送J退休"
 date: 2008-08-22 19:02:11
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

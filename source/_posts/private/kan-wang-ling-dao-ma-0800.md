@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "看望领导\/矛盾\/开会"
 date: 2006-12-02 05:50:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

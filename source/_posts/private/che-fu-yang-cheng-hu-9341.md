@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "车赴阳澄湖"
 date: 2016-03-29 14:39:10
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　单位两个分管局长跟雅Z公司到上海查看现场，我顺便请假到阳澄湖考察一下。</p>

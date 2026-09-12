@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "晚上又喝酒了"
 date: 2016-02-26 22:07:42
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天晚上接待台州黄岩区在曙光喝多了，今天上午在家休息没去上班。</p>

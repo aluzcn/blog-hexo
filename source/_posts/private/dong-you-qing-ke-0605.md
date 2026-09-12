@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "冬友请客"
 date: 2009-07-04 02:20:01
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

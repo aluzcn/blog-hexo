@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "言多必失　玩弄心计（１）"
 date: 2005-06-04 23:32:04
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

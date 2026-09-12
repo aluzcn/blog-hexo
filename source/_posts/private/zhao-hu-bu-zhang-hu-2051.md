@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "找胡部长\/胡调走了"
 date: 2008-12-24 05:38:30
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

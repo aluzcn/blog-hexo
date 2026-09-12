@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "一代iPad行货最低售价仅为2888元"
 date: 2011-03-11 16:29:25
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　记得春节时原准备买台Ipad回家玩玩，当时是4000元左右，考虑到太贵了，没必要就放弃了。

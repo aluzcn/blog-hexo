@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "oppo ha2"
 date: 2015-12-24 20:18:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 儿啊：老爸今天网购了oppo ha2耳放，具有usb的dac解码放大功能。

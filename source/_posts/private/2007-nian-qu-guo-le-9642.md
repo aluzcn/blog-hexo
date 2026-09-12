@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "2007年去过了"
 date: 2008-01-02 00:29:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

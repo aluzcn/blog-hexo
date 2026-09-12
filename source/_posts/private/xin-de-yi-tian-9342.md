@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "新的一天"
 date: 2016-03-15 07:32:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; 经过一个多月的辛苦，昨天下午终于在医院建档了，这就表示医院正式从门诊转为病房了。

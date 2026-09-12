@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "老笪出事了"
 date: 2008-03-31 23:59:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　前天下午在政府大楼下和巧沛等市长时，就接到Y的电话，

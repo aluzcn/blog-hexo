@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "世界女声18首"
 date: 2006-12-10 20:19:59
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　<p>1.Unce Upon A Dream<br />演唱: Linda Eder　选自: JekyII &amp; Hyde　发行号: RCA 60416&mdash;2<br /><br />下载链接<br /><a href="http://www.zhsc.net/bbs/images/fssszy4/001OnceUponADream.mp3" target="_blank" title="http://www.zhsc.net/bbs/images/fssszy4/001OnceUponADream.mp3" rel="noopener">http://www.zhsc.net/bbs/images/fssszy4/001OnceUponADream.mp3</a>

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "2007年度财务预算\/见面会"
 date: 2007-12-03 18:46:40
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

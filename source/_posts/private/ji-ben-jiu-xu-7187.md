@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "基本就绪"
 date: 2007-06-12 19:23:42
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

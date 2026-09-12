@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "韦请客\/国庆后报销"
 date: 2008-10-07 23:15:16
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

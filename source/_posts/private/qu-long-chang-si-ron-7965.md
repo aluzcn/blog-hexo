@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "去隆昌寺容北"
 date: 2016-04-28 16:12:15
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　早晨起来和老婆散步，又谈到儿子。我平时嘴太啰嗦，经常说<br />

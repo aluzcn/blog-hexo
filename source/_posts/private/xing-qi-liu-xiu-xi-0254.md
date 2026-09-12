@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "星期六休息"
 date: 2018-09-15 10:18:40
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 一早带瑶瑶出去溜达溜达。

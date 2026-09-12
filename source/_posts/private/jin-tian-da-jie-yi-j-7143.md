@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "今天大姐一家来过年"
 date: 2016-02-05 10:50:50
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　明天准备到BH山去放生，昨天晚上联系南京，他们今天赶回吃晚饭。</p>

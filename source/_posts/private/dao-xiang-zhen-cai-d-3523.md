@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "到乡镇踩点"
 date: 2007-11-06 03:13:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

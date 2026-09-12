@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "接待省RD几个老同志\/中秋节礼品"
 date: 2007-09-18 18:24:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "南京来人"
 date: 2006-10-28 10:06:57
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

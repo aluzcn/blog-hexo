@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "为中层干部的事找胡"
 date: 2008-08-07 01:21:51
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

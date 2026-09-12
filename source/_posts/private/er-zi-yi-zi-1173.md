@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "儿子椅子"
 date: 2016-02-29 12:27:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 好像是从日本回来后不小心弄坏了，自己通过淘宝换了配件修好了。

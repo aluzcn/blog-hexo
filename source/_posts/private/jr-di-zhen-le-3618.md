@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "JR地震了"
 date: 2008-07-07 18:00:40
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

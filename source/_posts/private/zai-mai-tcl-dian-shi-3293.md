@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "再买TCL电视"
 date: 2011-07-31 09:02:38
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　天热了，在卧室里开空调看电视才舒服。可惜卧室的电视太旧了，是老式的长虹电子管的。

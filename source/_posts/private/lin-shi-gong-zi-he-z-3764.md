@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "临时工资和住房公积"
 date: 2008-03-04 18:10:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

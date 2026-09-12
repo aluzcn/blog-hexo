@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "召开第七次常委会"
 date: 2008-09-28 01:12:38
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

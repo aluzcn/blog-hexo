@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "五一长假快结束了。"
 date: 2006-05-06 18:22:35
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 后天就要上班了。这个五一长假全部在家渡过。

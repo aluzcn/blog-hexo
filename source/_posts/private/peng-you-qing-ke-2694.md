@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "朋友请客"
 date: 2016-02-28 18:26:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 GY请客，每年都是这样，可惜儿子不在。

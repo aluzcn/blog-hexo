@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "不舒服，头晕"
 date: 2016-03-02 22:02:53
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　上午开了班子会，之后一直来人不断，都是为今年工作，想安排资金。</p>

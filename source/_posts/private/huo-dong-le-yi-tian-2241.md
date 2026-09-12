@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "活动了一天\/考察"
 date: 2008-11-10 23:13:58
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

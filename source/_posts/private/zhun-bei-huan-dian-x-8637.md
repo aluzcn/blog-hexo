@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "准备换电信宽带套餐"
 date: 2010-12-19 21:03:17
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

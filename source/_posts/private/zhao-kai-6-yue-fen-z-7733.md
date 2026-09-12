@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "召开6月份主任会议"
 date: 2007-06-27 18:09:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "墓地立碑"
 date: 2015-12-02 12:00:15
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　小赖乖，今天上午10点我们一起到墓地立碑。你墓碑上的照片是目前最大最好看的，</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">小周叔叔说以后别人肯定会模仿。爷奶妈都哭了，今天早上不到4点老爸就醒了。</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　昨天晚</span><span style="background-color: rgb(255, 255, 255); font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px;">上跟你师傅也联系了，不巧他们五七上白班，不知会不会来人，估计过后你师</span></p><p><span style="background-color: rgb(255, 255, 255); font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px;">傅会组织同</span><span style="background-color: rgb(255, 255, 255); font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px;">事来看你的。</span></p>

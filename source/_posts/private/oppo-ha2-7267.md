@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "oppo ha2"
 date: 2015-12-21 21:17:05
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　乖呀，今天老爸工作比较忙，想你啊。上午你车间的冷书记来信息说保险公司和他分别出差，</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">初定星期六谈你保险的事。路啊，老爸对这个真的不介意。上午老爸在淘宝订了oppo ha2,耳机功</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">放，就是听歌想你啊。老爸年轻的时候喜欢这样，后来不会了，现在又回复了。晚上喝了酒，你这</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">次出事都是老爸讲话太重太伤你自尊，老爸对不起你啊，你不要怪我啊。老爸是刀子嘴豆腐心，全</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">是想着为你好。</span></p>

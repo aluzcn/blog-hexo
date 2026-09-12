@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "g12手机的几个Rom"
 date: 2012-01-08 12:15:27
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　1、大款小总的男女双版，文件名：virtuous_affinity-v1.48.0B.zip

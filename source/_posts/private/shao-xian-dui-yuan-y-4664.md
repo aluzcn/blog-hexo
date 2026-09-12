@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "少先队员迎六一"
 date: 2024-05-31 22:10:02
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:paragraph -->

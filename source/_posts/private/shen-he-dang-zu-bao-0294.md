@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "审核党组报告\/到省开会"
 date: 2007-09-05 01:06:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

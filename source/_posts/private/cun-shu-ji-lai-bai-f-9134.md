@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "村书记来拜访"
 date: 2007-04-25 00:01:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

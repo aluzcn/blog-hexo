@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "刚才朱X龙来电报销发票"
 date: 2005-05-08 18:13:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 

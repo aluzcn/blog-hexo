@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "讨论报告\/重大事项"
 date: 2008-11-03 18:50:31
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

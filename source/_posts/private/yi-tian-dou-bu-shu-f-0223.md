@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "一天都不舒服"
 date: 2007-08-30 05:18:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

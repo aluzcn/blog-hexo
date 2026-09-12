@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "墓地总价格"
 date: 2016-04-25 08:32:46
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　冥冥之中让我到民政局工作就好像是为了方便办后事的。</p>

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "召开常委会\/中秋福利\/本人情况"
 date: 2007-09-28 23:47:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

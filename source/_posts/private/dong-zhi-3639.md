@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "冬至"
 date: 2015-12-22 19:42:16
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p><span style="font-family: 'lucida Grande', Verdana, 'Microsoft YaHei'; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　小乖：上午爸妈爷奶9:40从家里出发到墓地去看你。按仙姑的意思特意扎了5匹马烧给你，马真做的很好，高大威猛，</span></p>

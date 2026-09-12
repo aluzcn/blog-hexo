@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "兄弟单位办公室主任聚会"
 date: 2007-06-11 06:05:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

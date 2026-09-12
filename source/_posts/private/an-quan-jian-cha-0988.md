@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "安全检查"
 date: 2018-09-12 09:30:31
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 中秋国庆两节快到了，上午陪领导市区检查一个超市一个商场。

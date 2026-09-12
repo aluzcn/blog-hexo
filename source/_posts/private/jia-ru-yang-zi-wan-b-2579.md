@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "加入扬子晚报的高考飞信"
 date: 2009-06-07 16:47:27
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

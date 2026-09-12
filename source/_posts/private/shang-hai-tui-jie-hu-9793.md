@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "上海推介会"
 date: 2016-04-23 14:58:15
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 前天昨天都晴热的天气，今天正如预报的一样开始下雨了。

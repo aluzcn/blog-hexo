@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "在家看录像"
 date: 2015-12-13 12:51:50
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　路：上午我们在家看宝华山法事的录像，尽管法事做的很好，但再也见不到你了。</span></p><p><span style="font-family: &#39;lucida Grande&#39;, Verdana, &#39;Microsoft YaHei&#39;; font-size: 14px; line-height: 19.16666603088379px; background-color: rgb(255, 255, 255);">　　路啊，老爸做的再不好你也不能这样啊，老爸再啰嗦也是为你好呀。</span></p>

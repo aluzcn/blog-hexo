@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "跟Y交流了一次想法"
 date: 2008-08-19 01:00:34
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

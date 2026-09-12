@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "本届最后一次常委会\/合影"
 date: 2007-12-17 20:20:41
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

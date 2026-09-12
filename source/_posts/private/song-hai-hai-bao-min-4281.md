@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "送海海报名"
 date: 2007-09-09 00:31:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

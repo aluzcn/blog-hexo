@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "从武夷山回家"
 date: 2007-10-03 06:33:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

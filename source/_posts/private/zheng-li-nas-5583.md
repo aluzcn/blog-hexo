@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "整理nas"
 date: 2015-11-28 17:23:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 ![请输入图片描述][1]

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "两会召开和信访热点"
 date: 2007-03-11 21:20:59
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

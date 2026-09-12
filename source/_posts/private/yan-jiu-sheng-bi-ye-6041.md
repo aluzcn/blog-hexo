@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "研究生毕业证书"
 date: 2011-09-29 20:50:14
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　上午到基层走走，途中接到电话：研究生毕业证书到了。

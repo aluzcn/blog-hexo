@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "单位年终分配方案并资金安排"
 date: 2007-01-29 17:49:23
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

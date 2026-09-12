@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "高市长经费已批"
 date: 2008-12-17 19:14:49
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 今天上午Y到ZJ陪他家属看病，到快10点打电话告诉我。

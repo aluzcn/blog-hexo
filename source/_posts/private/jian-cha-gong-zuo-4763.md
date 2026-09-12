@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "检查工作"
 date: 2006-09-30 04:56:18
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

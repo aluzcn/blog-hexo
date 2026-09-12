@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "镇人大工作总结表彰会"
 date: 2009-01-15 23:42:14
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

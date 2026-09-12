@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "去南京抽血"
 date: 2016-03-26 15:45:36
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天省局来人，酒烂喝多。</p>

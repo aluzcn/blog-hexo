@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "老干部外出归来"
 date: 2008-10-25 18:17:51
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

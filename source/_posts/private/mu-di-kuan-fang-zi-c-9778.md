@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "墓地款房子出租"
 date: 2016-04-27 15:54:23
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　上午把儿子和爷奶的墓地款带到办公室给杨L，让他交给王w。</p>

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "冒雨去nj保险公司"
 date: 2016-01-11 13:29:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p><img alt="img_0266" class="alignnone size-medium wp-image-1795" height="300" src="https://img.cyoy.cn/hexo/images/2016/01/img_0266.jpeg" width="400" /></p>

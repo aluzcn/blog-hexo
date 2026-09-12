@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "最近比较杂"
 date: 2012-01-05 16:53:16
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　今年的元旦和春节都在一个月，节前的时间比较有限，各人都比较忙。

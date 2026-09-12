@@ -1,5 +1,4 @@
 ---
-hidden: true
 tags: [private]
 title: "李书记来单位"
 date: 2006-10-24 18:13:41

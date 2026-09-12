@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "Y矛盾\/帐目"
 date: 2008-12-17 00:57:12
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

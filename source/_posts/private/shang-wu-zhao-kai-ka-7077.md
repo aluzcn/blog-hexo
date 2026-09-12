@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "上午召开“看变化”筹备会"
 date: 2008-10-13 23:58:56
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

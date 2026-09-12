@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "搬家请客\/加班"
 date: 2009-01-03 00:28:45
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "下周狮子座运势"
 date: 2011-12-20 16:25:24
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　狮子座（07/23--08/22）下周运势：

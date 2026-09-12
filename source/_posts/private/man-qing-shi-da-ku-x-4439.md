@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "满清十大酷刑(翁虹)"
 date: 2011-02-12 16:34:10
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　突然想看看这部片子，还真不容易找。最后是从NAS中自带的搜索程序中找到的。

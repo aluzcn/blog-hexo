@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "瑶瑶第一次晒太阳"
 date: 2017-09-08 19:19:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 早晨的阳光真好，第一次抱瑶瑶到阳台上晒太阳。 

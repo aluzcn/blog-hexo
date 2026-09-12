@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "办公室主任聚会"
 date: 2008-02-26 05:59:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

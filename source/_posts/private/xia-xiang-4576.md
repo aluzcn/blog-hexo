@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "下乡"
 date: 2018-09-14 09:03:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 早晨起来锻炼，小区后面的空地在清理了，

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "你到底爱谁\/至少还有你\/你的眼神\/小薇"
 date: 2005-06-26 12:39:14
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

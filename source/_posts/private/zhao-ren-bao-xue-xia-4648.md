@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "找人报学校"
 date: 2009-06-26 16:52:34
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "喜欢"
 date: 2019-10-01 12:45:34
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:paragraph -->

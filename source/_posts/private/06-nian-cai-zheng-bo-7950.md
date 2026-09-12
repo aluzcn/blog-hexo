@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "06年财政拨款情况"
 date: 2006-11-28 17:57:20
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

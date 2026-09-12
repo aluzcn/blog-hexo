@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "小调皮"
 date: 2019-09-16 11:02:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <img class="alignnone wp-image-3462 size-medium" src="https://img.cyoy.cn/hexo/images/2019/09/myxj_20190915114033_fast9024625786586546779.jpg" alt="" width="308" height="640" />

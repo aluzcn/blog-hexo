@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "先去上海准备"
 date: 2016-04-21 14:52:43
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　后天搞推介，这是今年最大的工作。本来市领导和几个一把手去<br />

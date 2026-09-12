@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "一早去医院"
 date: 2016-03-11 06:57:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 第四次了，熟门熟路。

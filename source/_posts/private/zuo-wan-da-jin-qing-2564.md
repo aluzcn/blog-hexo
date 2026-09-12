@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "昨晚大金请客"
 date: 2016-02-24 10:33:10
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　这家伙可能是当常委了，请请客，打打招呼。</p>

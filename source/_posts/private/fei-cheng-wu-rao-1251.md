@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "非诚勿扰"
 date: 2009-02-08 09:22:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 蛮好看的一部电影。

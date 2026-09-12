@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "在卫生局召开主任会议"
 date: 2008-07-24 18:31:49
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

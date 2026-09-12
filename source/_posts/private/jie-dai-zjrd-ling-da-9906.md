@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "接待ZJRD领导来视察"
 date: 2008-08-29 23:44:27
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

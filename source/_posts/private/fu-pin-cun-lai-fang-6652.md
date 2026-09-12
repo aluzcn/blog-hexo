@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "扶贫村来访"
 date: 2018-09-21 11:12:18
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 上午后B林M村书记主任等4人来单位，今年春节过后第一次，答应国庆节后去一下。

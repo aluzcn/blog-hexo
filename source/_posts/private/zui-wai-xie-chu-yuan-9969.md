@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "嘴歪斜出院"
 date: 2015-06-30 16:23:51
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　<img alt="img_0279.jpeg" class="alignnone size-full wp-image-2006" height="805" src="https://img.cyoy.cn/hexo/images/2016/01/img_0279.jpeg" style="" title="" width="603" /><br />

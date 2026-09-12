@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "办公室物品取回"
 date: 2019-09-30 14:09:56
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 上午小周把我办公室的物品全部收拾好送过来了，基本结束了。

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "招待费"
 date: 2006-12-08 23:02:42
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

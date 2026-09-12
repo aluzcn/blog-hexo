@@ -1,5 +1,4 @@
 ---
-hidden: true
 tags: [private]
 title: "小聚一下"
 date: 2006-10-27 00:05:58

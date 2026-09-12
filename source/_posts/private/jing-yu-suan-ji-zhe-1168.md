@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "精于算计者多不幸"
 date: 2005-06-25 12:18:05
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

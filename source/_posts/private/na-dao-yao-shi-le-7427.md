@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "拿到钥匙了"
 date: 2016-01-31 13:39:12
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　昨天物业来电话说开发商已经给了一把钥匙，今天上午就和老婆去取了。</p>

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "元旦快乐"
 date: 2007-01-01 10:12:58
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

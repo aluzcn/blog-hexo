@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "机关作风建设要强化"
 date: 2005-06-02 18:16:59
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

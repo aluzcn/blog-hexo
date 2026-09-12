@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "去香草谷"
 date: 2016-04-29 15:35:33
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　ZX现在到江宁大塘金香草谷了，董事长对他很信任，他也能按<br />

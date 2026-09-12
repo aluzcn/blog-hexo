@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "为机关体检请医院领导\/矛盾"
 date: 2008-09-17 01:06:51
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

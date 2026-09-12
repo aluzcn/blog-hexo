@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "快忍不住要发生冲突了"
 date: 2008-08-12 18:49:33
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

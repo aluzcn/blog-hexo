@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "终于动人了"
 date: 2007-11-18 06:13:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

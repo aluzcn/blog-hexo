@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "继续重复挂号"
 date: 2016-03-14 06:53:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 第五次了，检查费用就花了超过万元，住宿等费用也要万元。

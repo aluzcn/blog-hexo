@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "没意思的PT站--邀请码"
 date: 2011-08-05 16:00:50
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　现在的PT站似乎很热门，下载高清电影的第一场所。

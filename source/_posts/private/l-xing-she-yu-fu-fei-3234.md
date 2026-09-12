@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "旅行社预付费用"
 date: 2007-10-09 23:11:05
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

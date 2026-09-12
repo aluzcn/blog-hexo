@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "g12我的个人资料"
 date: 2011-11-10 22:19:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　个人资料无法编辑，打开邮件特别慢.......

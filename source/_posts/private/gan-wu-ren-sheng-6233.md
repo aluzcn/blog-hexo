@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "感悟人生"
 date: 2005-05-08 21:29:16
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

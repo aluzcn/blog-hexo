@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "接待省RD\/体检结果"
 date: 2008-09-24 22:58:42
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

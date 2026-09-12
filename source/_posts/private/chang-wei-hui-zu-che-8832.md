@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "常委会组成人员礼品发放方案"
 date: 2007-10-29 19:04:00
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

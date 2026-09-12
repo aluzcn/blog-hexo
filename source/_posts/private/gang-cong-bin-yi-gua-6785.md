@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "刚从殡仪馆回来"
 date: 2007-05-31 17:59:43
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "办公室主任年前聚会"
 date: 2007-02-11 06:43:19
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

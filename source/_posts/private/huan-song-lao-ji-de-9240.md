@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "欢送老纪的讲话"
 date: 2007-03-10 16:52:38
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

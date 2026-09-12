@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "几个朋友的私事"
 date: 2008-08-11 18:26:20
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

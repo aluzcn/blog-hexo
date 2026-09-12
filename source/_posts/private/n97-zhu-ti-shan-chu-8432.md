@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "n97 主题删除"
 date: 2009-02-07 18:44:02
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "接海海\/同学聚会"
 date: 2007-10-07 01:02:00
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

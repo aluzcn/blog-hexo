@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "讨论有关资金人员等问题"
 date: 2010-12-31 18:01:03
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
    今天上午陈XF主动到我的办公室来，商量一些具体的敏感问题。

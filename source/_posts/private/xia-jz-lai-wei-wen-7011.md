@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "夏jz来慰问"
 date: 2016-02-02 22:21:35
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　中午接到夏的电话，下午他先到宝华山之后来慰问我和杨xl。</p>

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "win轻松转移"
 date: 2016-01-30 17:49:00
 categories: [网络]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>　　想用这个程序把儿子电脑上的资料全部转移过来。</p>

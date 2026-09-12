@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "明天开常委会"
 date: 2008-09-26 00:04:50
 categories: [学习]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

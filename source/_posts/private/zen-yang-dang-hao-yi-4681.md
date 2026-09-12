@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "怎样当好一把手"
 date: 2007-03-05 20:31:59
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

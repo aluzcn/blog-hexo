@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "海参威"
 date: 2007-02-16 15:47:56
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

@@ -1,10 +1,10 @@
 ---
-hidden: true
+
 tags: [private]
 title: "皮防所毛囊炎"
 date: 2024-12-15 20:12:12
 categories: [生活]
-
+abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 预约好今天上午9:30左右手术，开车送宝贝8:40的钢琴课后就
