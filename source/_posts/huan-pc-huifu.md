@@ -1,9 +1,8 @@
 ---
-title: ""
+title: "Hexo博客重装系统/换电脑恢复手册"
 date: 2026-09-13 08:42:21
-categories: [生活]
-tags: [private, 软件]
-description: ""
+categories: [网络]
+tags: [hexo]
 ---
 
 一、核心真理（记住这一句就够）
