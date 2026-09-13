@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "４０岁感悟！！！"
 date: 2005-06-29 15:38:02
 categories: [生活]

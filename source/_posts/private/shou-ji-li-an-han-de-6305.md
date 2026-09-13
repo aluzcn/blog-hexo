@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "手机里暗含的秘密"
 date: 2006-12-10 15:19:35
 categories: [生活]

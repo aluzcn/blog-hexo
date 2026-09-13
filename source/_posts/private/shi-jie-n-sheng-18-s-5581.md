@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "世界女声18首"
 date: 2006-12-10 20:19:59
 categories: [生活]

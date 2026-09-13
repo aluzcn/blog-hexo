@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "暴笑又让人顿悟的哲理故事"
 date: 2005-06-10 16:17:40
 categories: [生活]

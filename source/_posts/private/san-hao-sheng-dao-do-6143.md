@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "三好生、到东山吃骨头汤"
 date: 2005-07-07 04:18:11
 categories: [生活]
