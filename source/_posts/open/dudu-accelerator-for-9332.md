@@ -1,4 +1,4 @@
-﻿---
+---
 title: "DuDu Accelerator For Internet Explorer"
 date: 2005-06-26 22:15:42
 cid: 296

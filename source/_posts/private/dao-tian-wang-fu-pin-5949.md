@@ -4,7 +4,6 @@ tags: [private]
 title: "到天王扶贫村"
 date: 2008-08-20 01:39:49
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

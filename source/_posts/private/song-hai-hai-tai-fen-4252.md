@@ -4,7 +4,6 @@ tags: [private]
 title: "送海海\/台风来了"
 date: 2007-10-08 01:19:11
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

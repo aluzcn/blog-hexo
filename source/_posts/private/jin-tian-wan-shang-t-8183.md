@@ -4,7 +4,6 @@ tags: [private]
 title: "今天晚上同援藏领导吃饭"
 date: 2006-10-07 15:14:29
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

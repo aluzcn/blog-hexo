@@ -4,7 +4,6 @@ tags: [private]
 title: "前天兄弟单位聚会"
 date: 2006-10-17 23:05:35
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -4,7 +4,6 @@ tags: [private]
 title: "高考最后一天\/晚刘请客"
 date: 2009-06-10 00:50:10
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

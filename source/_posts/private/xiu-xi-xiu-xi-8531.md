@@ -4,7 +4,6 @@ tags: [private]
 title: "休息休息"
 date: 2007-08-19 15:53:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

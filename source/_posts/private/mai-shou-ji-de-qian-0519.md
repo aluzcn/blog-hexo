@@ -4,7 +4,6 @@ tags: [private]
 title: "买手机的钱结清"
 date: 2006-12-12 18:06:59
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

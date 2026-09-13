@@ -1,4 +1,4 @@
-﻿---
+---
 title: "hi blogger"
 date: 2008-12-29 00:00:01
 cid: 88

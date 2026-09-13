@@ -4,7 +4,6 @@ tags: [private]
 title: "心烦的一天"
 date: 2009-06-30 16:55:50
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

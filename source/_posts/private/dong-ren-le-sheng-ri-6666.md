@@ -4,7 +4,6 @@ tags: [private]
 title: "动人了\/生日"
 date: 2009-07-26 02:34:03
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

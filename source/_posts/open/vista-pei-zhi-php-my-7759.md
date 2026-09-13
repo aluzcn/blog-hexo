@@ -1,4 +1,4 @@
-﻿---
+---
 title: "vista配置php+mysql(XAMPP)"
 date: 2008-02-08 14:56:34
 cid: 129

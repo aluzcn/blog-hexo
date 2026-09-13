@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Banner Maker Pro最新版本"
 date: 2005-08-13 16:51:00
 cid: 273

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "phpbb一般错误 could not get style data(权限)"
 date: 2011-02-17 18:26:11
 cid: 386

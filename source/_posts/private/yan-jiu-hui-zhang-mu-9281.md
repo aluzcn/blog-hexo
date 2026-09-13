@@ -4,7 +4,6 @@ tags: [private]
 title: "研究会帐目资金"
 date: 2006-11-20 17:50:27
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

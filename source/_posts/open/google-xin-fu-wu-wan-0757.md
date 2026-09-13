@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Google新服务:网页浏览加速器 Google Web Accelerator"
 date: 2005-05-07 21:37:40
 cid: 336

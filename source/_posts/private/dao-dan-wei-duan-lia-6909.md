@@ -4,7 +4,6 @@ tags: [private]
 title: "到单位锻炼"
 date: 2018-10-02 14:35:16
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:image {"id":3429} -->

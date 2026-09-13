@@ -5,7 +5,6 @@ const injectJs = `
 try{
   const GLOBAL_AUTH_KEY = "private_global_all";
   const GLOBAL_EXPIRE = 12 * 60 * 60 * 1000;
-
   function setGlobalPass(pwd){
     localStorage.setItem(GLOBAL_AUTH_KEY, JSON.stringify({
       pass: pwd,
@@ -22,7 +21,6 @@ try{
     }
     return data.pass;
   }
-
   function autoFill(){
     const pwd = getGlobalPass();
     if(!pwd) return;
@@ -33,9 +31,7 @@ try{
       btn.click();
     }
   }
-
-  // 监听提交按钮点击：用户手动提交密码的时候，保存密码到全局
-  window.addEventListener('load', ()=>{
+  function bindAuth(){
     const timer = setInterval(()=>{
       const input = document.querySelector('input[type="password"]');
       const btn = document.querySelector('button[type="submit"]');
@@ -43,9 +39,7 @@ try{
         btn.onclick = function(){
           const pwdVal = input.value.trim();
           if(pwdVal){
-            // 等一小会，判断解密成功后再保存
             setTimeout(()=>{
-              // 页面密码框消失=解密成功
               if(!document.querySelector('input[type="password"]')){
                 setGlobalPass(pwdVal);
               }
@@ -56,7 +50,11 @@ try{
         clearInterval(timer);
       }
     },300);
-  })
+  }
+  // 首次页面加载
+  window.addEventListener('load', bindAuth);
+  // pjax翻页完成后重新绑定
+  document.addEventListener('pjax:complete', bindAuth);
 }catch(err){
   console.log("全局授权脚本异常",err);
 }

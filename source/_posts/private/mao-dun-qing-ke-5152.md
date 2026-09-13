@@ -4,7 +4,6 @@ tags: [private]
 title: "矛盾\/请客\/"
 date: 2006-11-22 17:59:54
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

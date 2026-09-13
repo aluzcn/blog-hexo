@@ -4,7 +4,6 @@ tags: [private]
 title: "广东河源卖官书记受审 嫖娼遭勒索曾让下属摆平"
 date: 2005-05-11 10:51:23
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

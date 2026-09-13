@@ -4,7 +4,6 @@ tags: [private]
 title: "春节快结束了"
 date: 2008-02-11 20:41:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

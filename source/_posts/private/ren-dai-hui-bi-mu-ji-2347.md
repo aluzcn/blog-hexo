@@ -4,7 +4,6 @@ tags: [private]
 title: "人代会闭幕及宴请"
 date: 2009-01-08 23:20:13
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

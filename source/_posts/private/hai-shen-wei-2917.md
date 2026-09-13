@@ -4,7 +4,6 @@ tags: [private]
 title: "海参威"
 date: 2007-03-14 09:12:52
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 这是今天偶然找到的在KX工作时，到海参威去玩的照片。

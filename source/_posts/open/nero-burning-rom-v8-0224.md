@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nero Burning Rom v8.3.2.1b 中文版"
 date: 2008-06-30 19:53:51
 cid: 116

@@ -4,7 +4,6 @@ tags: [private]
 title: "上午召开支部大会并年底会议"
 date: 2007-02-10 06:14:07
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

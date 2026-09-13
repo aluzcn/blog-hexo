@@ -1,4 +1,4 @@
-﻿---
+---
 title: "链路汇集和中继（Link Aggregation and Trunking）"
 date: 2011-01-26 16:22:00
 cid: 353

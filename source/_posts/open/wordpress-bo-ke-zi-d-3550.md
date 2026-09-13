@@ -1,4 +1,4 @@
-﻿---
+---
 title: "WordPress 博客自动摘要插件wp-utf8-excerpt"
 date: 2011-03-21 11:17:51
 cid: 418

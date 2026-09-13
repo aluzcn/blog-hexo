@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lenovo EE Boot Optimizer"
 date: 2011-05-17 09:26:05
 cid: 449

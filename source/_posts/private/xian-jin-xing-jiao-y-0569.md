@@ -4,7 +4,6 @@ tags: [private]
 title: "先进性教育材料"
 date: 2005-05-09 16:54:33
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

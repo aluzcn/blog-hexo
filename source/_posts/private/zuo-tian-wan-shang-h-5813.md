@@ -4,7 +4,6 @@ tags: [private]
 title: "昨天晚上很不愉快"
 date: 2008-06-25 17:02:17
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -4,7 +4,6 @@ tags: [private]
 title: "两会结束了"
 date: 2011-03-14 10:56:57
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　今天两会结束了，总理正在举行记者会。

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "wordpress有关gzip使用说明"
 date: 2011-02-06 13:22:00
 cid: 371

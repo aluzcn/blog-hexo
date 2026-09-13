@@ -4,7 +4,6 @@ tags: [private]
 title: "下乡\/巡视动员大会"
 date: 2007-10-11 22:46:02
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

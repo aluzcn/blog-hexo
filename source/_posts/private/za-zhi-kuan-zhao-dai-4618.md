@@ -4,7 +4,6 @@ tags: [private]
 title: "杂志款\/招待费\/会议"
 date: 2007-10-23 00:45:35
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

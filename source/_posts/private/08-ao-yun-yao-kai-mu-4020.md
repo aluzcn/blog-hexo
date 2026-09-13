@@ -4,7 +4,6 @@ tags: [private]
 title: "08奥运要开幕了"
 date: 2008-08-08 10:22:07
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

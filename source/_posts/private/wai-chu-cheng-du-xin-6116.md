@@ -4,7 +4,6 @@ tags: [private]
 title: "外出成都、新疆等地归来"
 date: 2008-05-15 00:55:00
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -4,7 +4,6 @@ tags: [private]
 title: "宽带、信用卡办好"
 date: 2010-12-22 18:40:07
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

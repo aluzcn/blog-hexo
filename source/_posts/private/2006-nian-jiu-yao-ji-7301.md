@@ -4,7 +4,6 @@ tags: [private]
 title: "2006年就要结束了"
 date: 2006-12-31 08:59:49
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

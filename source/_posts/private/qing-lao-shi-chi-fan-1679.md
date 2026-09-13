@@ -4,7 +4,6 @@ tags: [private]
 title: "请老师吃饭"
 date: 2008-12-11 06:17:47
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

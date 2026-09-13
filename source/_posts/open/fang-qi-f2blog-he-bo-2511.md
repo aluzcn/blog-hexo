@@ -1,4 +1,4 @@
-﻿---
+---
 title: "放弃f2blog和boblog"
 date: 2018-09-06 10:54:09
 cid: 1292

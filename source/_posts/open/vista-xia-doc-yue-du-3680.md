@@ -1,4 +1,4 @@
-﻿---
+---
 title: "vista下doc阅读和Oblog试用"
 date: 2008-11-08 16:48:45
 cid: 93

@@ -4,7 +4,6 @@ tags: [private]
 title: "大徐说坏话"
 date: 2007-08-22 18:10:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

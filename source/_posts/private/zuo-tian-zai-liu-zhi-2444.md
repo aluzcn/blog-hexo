@@ -4,7 +4,6 @@ tags: [private]
 title: "昨天在刘志鹏请客"
 date: 2005-05-24 23:44:51
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

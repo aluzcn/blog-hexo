@@ -4,7 +4,6 @@ tags: [private]
 title: "赵回来当供电局副局长"
 date: 2005-07-16 23:24:35
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

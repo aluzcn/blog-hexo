@@ -4,7 +4,6 @@ tags: [private]
 title: "昨天中午陈市长请客"
 date: 2005-07-18 18:39:46
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

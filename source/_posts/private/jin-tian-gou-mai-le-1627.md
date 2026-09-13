@@ -4,7 +4,6 @@ tags: [private]
 title: "今天购买了三星笔记本电脑"
 date: 2005-10-28 22:45:11
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "wordPress图片加水印插件-waterMark reloaded"
 date: 2011-02-25 10:25:00
 cid: 398

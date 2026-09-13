@@ -1,4 +1,4 @@
-﻿---
+---
 title: "emlog转换wordpress"
 date: 2011-01-26 10:24:00
 cid: 348

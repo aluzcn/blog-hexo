@@ -4,7 +4,6 @@ tags: [private]
 title: "省科协领导来调研"
 date: 2005-08-25 18:42:47
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

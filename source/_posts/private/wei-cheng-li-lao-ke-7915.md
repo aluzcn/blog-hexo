@@ -4,7 +4,6 @@ tags: [private]
 title: "为成立老科协张书记打电话给我！"
 date: 2005-05-28 18:35:41
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

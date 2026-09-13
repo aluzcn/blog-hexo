@@ -4,7 +4,6 @@ tags: [private]
 title: "我们到底在过着什么样的生活(转)"
 date: 2008-09-20 22:48:15
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

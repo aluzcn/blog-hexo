@@ -1,4 +1,4 @@
-﻿---
+---
 title: "终极安装mysql+discuz102+f2blog+php"
 date: 2007-04-15 15:52:08
 cid: 159

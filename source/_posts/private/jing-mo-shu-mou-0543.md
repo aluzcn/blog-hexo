@@ -4,7 +4,6 @@ tags: [private]
 title: "@ 静默疏谋 @"
 date: 2005-06-10 16:21:46
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

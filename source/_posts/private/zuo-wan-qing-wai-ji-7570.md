@@ -4,7 +4,6 @@ tags: [private]
 title: "昨晚请外籍领导吃饭"
 date: 2007-02-27 17:02:05
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

@@ -4,7 +4,6 @@ tags: [private]
 title: "朱jun请客"
 date: 2018-09-04 22:23:14
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 快活林经过几个月的装修明天准备开业了。

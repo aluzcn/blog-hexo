@@ -4,7 +4,6 @@ tags: [private]
 title: "慰问部队和困难职工"
 date: 2007-02-09 06:12:42
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

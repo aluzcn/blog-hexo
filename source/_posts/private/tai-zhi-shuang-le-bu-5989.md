@@ -4,7 +4,6 @@ tags: [private]
 title: "太直爽了不好，应该学坏一点"
 date: 2005-06-03 05:37:06
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

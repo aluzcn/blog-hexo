@@ -1,4 +1,4 @@
-﻿---
+---
 title: "K-Lite Codec Pack编码集合软件"
 date: 2005-11-06 21:44:15
 cid: 263

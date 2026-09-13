@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rufus软件制作USB闪存启动盘-CentOS8"
 date: 2022-03-10 21:24:58
 cid: 1368

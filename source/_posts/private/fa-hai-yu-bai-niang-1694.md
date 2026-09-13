@@ -4,7 +4,6 @@ tags: [private]
 title: "法海与白娘子"
 date: 2005-05-19 16:11:35
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

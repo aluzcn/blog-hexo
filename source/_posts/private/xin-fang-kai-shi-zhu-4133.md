@@ -4,7 +4,6 @@ tags: [private]
 title: "新房开始装修"
 date: 2016-02-27 21:38:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 今天是星期六，上午跟np到单位拿车。

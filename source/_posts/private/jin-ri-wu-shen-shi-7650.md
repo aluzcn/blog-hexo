@@ -4,7 +4,6 @@ tags: [private]
 title: "今日无甚事"
 date: 2006-11-21 17:33:44
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

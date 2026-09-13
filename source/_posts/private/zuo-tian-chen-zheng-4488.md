@@ -4,7 +4,6 @@ tags: [private]
 title: "昨天陈政来玩"
 date: 2005-08-03 16:51:38
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

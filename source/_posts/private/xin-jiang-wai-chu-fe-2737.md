@@ -4,7 +4,6 @@ tags: [private]
 title: "新疆外出费用"
 date: 2008-06-20 18:47:53
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

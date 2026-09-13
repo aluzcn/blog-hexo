@@ -4,7 +4,6 @@ tags: [private]
 title: "高考第二天"
 date: 2009-06-10 00:49:25
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

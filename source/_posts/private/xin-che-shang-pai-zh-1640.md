@@ -4,7 +4,6 @@ tags: [private]
 title: "新车上牌照"
 date: 2007-03-24 18:44:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

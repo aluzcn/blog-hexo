@@ -4,7 +4,6 @@ tags: [private]
 title: "接到赵一平的电话"
 date: 2007-08-09 00:40:15
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

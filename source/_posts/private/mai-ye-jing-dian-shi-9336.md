@@ -4,7 +4,6 @@ tags: [private]
 title: "买液晶电视\/安装网络电视\/网银"
 date: 2010-12-30 00:32:38
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

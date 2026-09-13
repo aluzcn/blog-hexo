@@ -1,4 +1,4 @@
-﻿---
+---
 title: "highslide 插件 boblog"
 date: 2008-12-31 20:26:47
 cid: 87

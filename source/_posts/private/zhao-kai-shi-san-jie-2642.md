@@ -4,7 +4,6 @@ tags: [private]
 title: "召开十三届人大常委会第三十七次会议"
 date: 2007-07-27 04:20:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

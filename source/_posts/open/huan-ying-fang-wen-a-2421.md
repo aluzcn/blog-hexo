@@ -1,4 +1,4 @@
-﻿---
+---
 title: "欢迎访问 Apache Friends"
 date: 2007-03-10 09:03:35
 cid: 170

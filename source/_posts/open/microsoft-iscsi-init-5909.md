@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Microsoft iSCSI Initiaor的安装设置"
 date: 2011-02-21 16:28:35
 cid: 392

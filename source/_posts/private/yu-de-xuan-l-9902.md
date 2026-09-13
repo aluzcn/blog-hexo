@@ -4,7 +4,6 @@ tags: [private]
 title: "雨的旋律"
 date: 2005-06-18 18:50:29
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

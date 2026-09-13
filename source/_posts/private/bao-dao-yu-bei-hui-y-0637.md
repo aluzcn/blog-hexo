@@ -4,7 +4,6 @@ tags: [private]
 title: "报到\/预备会议"
 date: 2009-01-05 18:09:53
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

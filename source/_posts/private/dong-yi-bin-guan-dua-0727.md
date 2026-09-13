@@ -4,7 +4,6 @@ tags: [private]
 title: "东怡宾馆锻炼"
 date: 2016-02-22 16:42:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <p>设备不多，但够用了。<br />

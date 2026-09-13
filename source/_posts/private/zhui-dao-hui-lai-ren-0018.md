@@ -4,7 +4,6 @@ tags: [private]
 title: "追悼会\/来人"
 date: 2006-06-16 16:50:15
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

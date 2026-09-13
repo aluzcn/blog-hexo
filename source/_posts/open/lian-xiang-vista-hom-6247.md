@@ -1,4 +1,4 @@
-﻿---
+---
 title: "联想vista home basic 升级到正版旗舰版"
 date: 2008-06-28 20:41:58
 cid: 118

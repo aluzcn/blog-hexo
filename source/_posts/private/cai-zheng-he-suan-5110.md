@@ -4,7 +4,6 @@ tags: [private]
 title: "财政核算"
 date: 2008-06-03 00:19:59
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

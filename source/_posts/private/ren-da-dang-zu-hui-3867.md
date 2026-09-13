@@ -4,7 +4,6 @@ tags: [private]
 title: "人大党组会"
 date: 2009-07-30 02:36:23
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

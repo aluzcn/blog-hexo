@@ -4,7 +4,6 @@ tags: [private]
 title: "下乡赞助\/领导请客"
 date: 2008-12-25 20:46:00
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

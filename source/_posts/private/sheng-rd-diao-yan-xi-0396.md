@@ -4,7 +4,6 @@ tags: [private]
 title: "省RD调研\/新市长请客"
 date: 2007-05-25 18:44:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

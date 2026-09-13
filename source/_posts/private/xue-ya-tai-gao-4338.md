@@ -4,7 +4,6 @@ tags: [private]
 title: "血压太高"
 date: 2009-01-28 09:34:42
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

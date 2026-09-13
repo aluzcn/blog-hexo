@@ -4,7 +4,6 @@ tags: [private]
 title: "主持告别仪式\/白T调研"
 date: 2008-12-01 17:25:11
 categories: [学习]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

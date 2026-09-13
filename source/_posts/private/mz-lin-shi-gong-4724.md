@@ -4,7 +4,6 @@ tags: [private]
 title: "MZ临时工"
 date: 2011-03-22 09:44:47
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　上午找徐问了下情况：

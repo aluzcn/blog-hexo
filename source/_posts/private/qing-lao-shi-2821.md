@@ -4,7 +4,6 @@ tags: [private]
 title: "请老师"
 date: 2009-08-03 02:38:57
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

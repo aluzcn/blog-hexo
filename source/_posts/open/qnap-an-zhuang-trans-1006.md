@@ -1,4 +1,4 @@
-﻿---
+---
 title: "QNAP安装transmission"
 date: 2011-02-16 19:37:34
 cid: 385

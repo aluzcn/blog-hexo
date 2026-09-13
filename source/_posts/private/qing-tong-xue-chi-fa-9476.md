@@ -4,7 +4,6 @@ tags: [private]
 title: "请同学吃饭"
 date: 2008-08-17 00:52:33
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

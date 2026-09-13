@@ -4,7 +4,6 @@ tags: [private]
 title: "今天下午新买了几本书"
 date: 2007-05-10 16:40:35
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

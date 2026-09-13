@@ -4,7 +4,6 @@ tags: [private]
 title: "晚上请老韦吃饭"
 date: 2007-08-22 04:08:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

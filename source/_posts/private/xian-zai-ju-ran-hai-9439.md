@@ -4,7 +4,6 @@ tags: [private]
 title: "现在居然还要外出"
 date: 2006-12-03 17:37:32
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

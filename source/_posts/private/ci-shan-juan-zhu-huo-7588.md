@@ -4,7 +4,6 @@ tags: [private]
 title: "慈善捐助活动"
 date: 2007-05-19 00:26:59
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

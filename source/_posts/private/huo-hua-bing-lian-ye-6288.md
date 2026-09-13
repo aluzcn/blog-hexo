@@ -4,7 +4,6 @@ tags: [private]
 title: "火化并连夜赶往武夷山"
 date: 2007-10-01 00:55:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

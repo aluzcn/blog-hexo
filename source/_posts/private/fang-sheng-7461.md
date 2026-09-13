@@ -4,7 +4,6 @@ tags: [private]
 title: "放生"
 date: 2016-02-06 21:34:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 今天天气很好，刚立春气温明显不那么割人了。

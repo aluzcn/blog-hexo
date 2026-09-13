@@ -4,7 +4,6 @@ tags: [private]
 title: "08年征订\/到扬州"
 date: 2007-10-24 00:46:00
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

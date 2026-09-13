@@ -4,7 +4,6 @@ tags: [private]
 title: "小活动一下"
 date: 2008-09-28 17:25:17
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

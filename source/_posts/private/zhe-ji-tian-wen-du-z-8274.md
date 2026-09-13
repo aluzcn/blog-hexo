@@ -4,7 +4,6 @@ tags: [private]
 title: "这几天温度真高"
 date: 2005-08-17 10:06:56
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

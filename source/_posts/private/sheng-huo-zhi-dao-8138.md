@@ -4,7 +4,6 @@ tags: [private]
 title: "生活之道"
 date: 2006-11-09 15:02:26
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 　　 

@@ -4,7 +4,6 @@ tags: [private]
 title: "编程猫奖状"
 date: 2024-12-30 18:10:28
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
 <!-- wp:image {"id":5454,"sizeSlug":"large"} -->

@@ -4,7 +4,6 @@ tags: [private]
 title: "到卫生局调研还是视察"
 date: 2006-12-01 00:50:19
 categories: [生活]
-abstract: "🔒 私密文章，请输入密码查看全文"
 ---
 
  

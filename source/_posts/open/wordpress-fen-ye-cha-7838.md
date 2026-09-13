@@ -1,4 +1,4 @@
-﻿---
+---
 title: "WordPress分页插件WP-PageNavi"
 date: 2011-01-28 09:25:00
 cid: 354

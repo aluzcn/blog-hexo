@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Windows 2000下安装PHP4及MySQL大揭密"
 date: 2005-06-04 11:30:18
 cid: 316
