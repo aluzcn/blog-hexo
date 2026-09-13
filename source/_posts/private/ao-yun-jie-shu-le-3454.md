@@ -1,6 +1,4 @@
----
-
-tags: [private]
+---
 title: "奥运结束了"
 date: 2008-08-25 10:19:33
 categories: [生活]

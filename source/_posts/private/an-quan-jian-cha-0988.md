@@ -1,6 +1,6 @@
 ---
 
-tags: [private]
+tags: []
 title: "安全检查"
 date: 2018-09-12 09:30:31
 categories: [学习]

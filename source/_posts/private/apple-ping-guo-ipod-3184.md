@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "Apple\/苹果 iPod苹果耳机"
 date: 2011-06-19 11:24:18
 categories: [生活]

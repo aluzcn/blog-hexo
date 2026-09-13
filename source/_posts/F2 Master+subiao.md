@@ -1,5 +1,5 @@
 ---
-title: "VGN蜻蜓F2 Master+ 鼠标上手记录"
+title: "VGN蜻蜓F2 Master+ 鼠标上手记"
 date: 2026-09-13 09:30:18
 categories: [生活]
 tags: [设备]

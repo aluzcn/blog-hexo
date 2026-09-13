@@ -1,6 +1,6 @@
 ---
 
-tags: [private]
+tags: []
 title: "宝宝快来吧"
 date: 2017-08-26 19:48:00
 categories: [生活]

@@ -1,6 +1,6 @@
 ---
 
-tags: [private]
+tags: []
 title: "宝贝发烧了"
 date: 2020-12-31 07:46:22
 categories: [生活]
