@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "N85照像"
 date: 2009-02-12 09:24:54
 categories: [生活]

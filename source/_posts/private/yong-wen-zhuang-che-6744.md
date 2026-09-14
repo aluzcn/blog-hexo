@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "甬温撞车后--网络一诗"
 date: 2011-07-27 09:05:11
 categories: [生活]

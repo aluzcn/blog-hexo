@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "测试Ueditor编辑器1.4.3.1插件"
 date: 2016-01-12 11:01:05
 categories: [生活]

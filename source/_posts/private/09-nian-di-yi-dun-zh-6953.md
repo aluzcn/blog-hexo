@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "09年第一顿正餐\/家人"
+title: "09年第一顿正餐家人"
 date: 2009-01-01 17:50:16
 categories: [生活]
 ---

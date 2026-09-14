@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "手机使用google日历问题"
 date: 2012-09-03 21:14:44
 categories: [生活]

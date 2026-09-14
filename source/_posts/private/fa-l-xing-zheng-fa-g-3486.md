@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "法律、行政法规、地方性法规、行政规章"
 date: 2007-04-02 08:39:04
 categories: [生活]

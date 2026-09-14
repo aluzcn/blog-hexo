@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "自然灾害救助有关"
 date: 2012-01-09 15:49:05
 categories: [生活]

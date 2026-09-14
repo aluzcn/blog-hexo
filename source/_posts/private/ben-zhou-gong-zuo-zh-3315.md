@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "本周工作\/中秋节福利"
+title: "本周工作中秋节福利"
 date: 2008-09-09 19:07:59
 categories: [学习]
 ---

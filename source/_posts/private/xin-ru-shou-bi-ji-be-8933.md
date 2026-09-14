@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "新入手笔记本电脑"
 date: 2016-01-27 16:16:56
 categories: [生活]

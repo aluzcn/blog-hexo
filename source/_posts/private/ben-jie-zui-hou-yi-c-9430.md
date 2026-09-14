@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "本届最后一次主任会\/新大楼"
+title: "本届最后一次主任会新大楼"
 date: 2007-12-11 02:54:07
 categories: [学习]
 ---

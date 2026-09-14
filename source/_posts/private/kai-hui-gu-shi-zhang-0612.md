@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "开会\/顾市长\/补助"
+title: "开会顾市长补助"
 date: 2007-01-05 19:39:32
 categories: [生活]
 ---

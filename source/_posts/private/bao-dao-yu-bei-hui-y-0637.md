@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "报到\/预备会议"
+title: "报到预备会议"
 date: 2009-01-05 18:09:53
 categories: [学习]
 ---

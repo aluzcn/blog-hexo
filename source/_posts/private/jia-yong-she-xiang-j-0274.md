@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "家用摄像机"
 date: 2016-02-22 16:29:30
 categories: [生活]

@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "又感冒了"
 date: 2011-04-22 09:40:06
 categories: [生活]

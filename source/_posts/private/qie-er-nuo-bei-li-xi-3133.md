@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "切尔诺贝利相关资源"
 date: 2011-03-31 15:40:58
 categories: [生活]

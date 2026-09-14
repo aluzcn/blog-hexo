@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "非诚勿扰"
 date: 2009-02-08 09:22:00
 categories: [生活]

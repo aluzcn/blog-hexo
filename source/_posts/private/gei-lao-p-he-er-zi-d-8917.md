@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "给老P和儿子的手机铃声"
 date: 2011-04-25 11:26:08
 categories: [生活]

@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "到ZJ请高市长\/吴主任来"
+title: "到ZJ请高市长吴主任来"
 date: 2007-10-31 23:06:39
 categories: [生活]
 ---

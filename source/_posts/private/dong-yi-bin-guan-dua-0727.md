@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "东怡宾馆锻炼"
 date: 2016-02-22 16:42:00
 categories: [生活]

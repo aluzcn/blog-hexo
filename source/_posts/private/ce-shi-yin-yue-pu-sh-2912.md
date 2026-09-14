@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "测试音乐朴树-好好地"
 date: 2016-01-11 19:27:46
 categories: [生活]

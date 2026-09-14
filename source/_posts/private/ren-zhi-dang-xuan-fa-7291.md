@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "任职当选\/发言稿"
+title: "任职当选发言稿"
 date: 2009-08-01 02:38:01
 categories: [学习]
 ---

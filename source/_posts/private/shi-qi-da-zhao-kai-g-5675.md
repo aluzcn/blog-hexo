@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "十七大召开\/高市长请客"
+title: "十七大召开高市长请客"
 date: 2007-10-16 01:06:57
 categories: [学习]
 ---

@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "看家乐福价格违规有感"
 date: 2011-02-01 16:02:53
 categories: [生活]

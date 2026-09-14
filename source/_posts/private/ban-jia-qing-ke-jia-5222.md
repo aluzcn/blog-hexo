@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "搬家请客\/加班"
+title: "搬家请客加班"
 date: 2009-01-03 00:28:45
 categories: [学习]
 ---

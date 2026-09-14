@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "测试安装nucleus"
 date: 2011-01-24 08:48:53
 categories: [Nas]

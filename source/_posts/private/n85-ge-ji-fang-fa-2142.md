@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "N85格机方法"
 date: 2009-02-13 09:27:13
 categories: [生活]

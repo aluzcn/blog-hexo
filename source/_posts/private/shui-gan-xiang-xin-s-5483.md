@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "谁敢相信“双汇万岁”？（摘）"
 date: 2011-04-01 15:16:48
 categories: [生活]

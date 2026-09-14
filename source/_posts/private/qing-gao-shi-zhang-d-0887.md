@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "请高市长\/到扬州"
+title: "请高市长到扬州"
 date: 2008-09-30 17:37:42
 categories: [生活]
 ---

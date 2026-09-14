@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "农家乐"
 date: 2011-04-25 09:37:12
 categories: [生活]

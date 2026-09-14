@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "Y召集会议\/找高市长"
+title: "Y召集会议找高市长"
 date: 2008-12-15 23:57:02
 categories: [生活]
 ---

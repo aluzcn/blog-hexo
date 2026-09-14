@@ -1,6 +1,6 @@
 ---
 tags: [private]
-title: "09年春节团拜会\/Y退钱"
+title: "09年春节团拜会Y退钱"
 date: 2009-01-25 05:55:59
 categories: [学习]
 ---

@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "MySinaWeibo  -  2011-08-09"
 date: 2011-08-09 09:02:40
 categories: [生活]

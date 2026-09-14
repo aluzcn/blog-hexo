@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "为NAS安装论坛"
 date: 2011-01-25 02:16:47
 categories: [Nas]

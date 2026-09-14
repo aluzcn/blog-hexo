@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "最远的你是我最近的爱"
 date: 2011-07-22 11:07:30
 categories: [生活]

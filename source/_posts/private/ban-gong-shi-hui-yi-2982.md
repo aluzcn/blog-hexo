@@ -1,7 +1,7 @@
 ---
 
 tags: [private]
-title: "办公室会议\/老干部去世"
+title: "办公室会议老干部去世"
 date: 2008-03-07 18:12:00
 categories: [学习]
 ---

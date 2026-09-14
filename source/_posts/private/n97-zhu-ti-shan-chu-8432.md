@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "n97 主题删除"
 date: 2009-02-07 18:44:02
 categories: [生活]

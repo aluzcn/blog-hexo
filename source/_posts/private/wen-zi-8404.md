@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "蚊子"
 date: 2011-03-27 21:48:17
 categories: [生活]

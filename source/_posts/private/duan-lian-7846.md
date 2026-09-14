@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "锻炼"
 date: 2016-01-26 10:00:17
 categories: [生活]

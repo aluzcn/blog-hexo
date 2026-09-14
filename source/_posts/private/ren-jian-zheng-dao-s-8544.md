@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "人间正道是沧桑"
 date: 2009-02-16 09:35:00
 categories: [学习]

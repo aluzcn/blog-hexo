@@ -1,6 +1,4 @@
 ---
-
-tags: [private]
 title: "给大本重新安装系统"
 date: 2011-02-28 17:26:13
 categories: [生活]
