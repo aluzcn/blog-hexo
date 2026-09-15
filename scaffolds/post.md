@@ -1,6 +1,9 @@
 ---
-title: ""
+title: {{ title }}
 date: {{ date }}
-categories: [生活]
-tags: [private, 软件]
+categories:
+  - 网络
+tags:
+  - private
+  - 软件
 ---
