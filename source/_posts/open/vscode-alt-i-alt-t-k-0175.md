@@ -7,7 +7,6 @@ toc: true
 date: 2026-09-08 08:14:21
 updated: 2026-09-08 08:14:21
 ---
-
 效果如下：
 ~~~
 ![图片描述](图片地址)
@@ -16,9 +15,7 @@ updated: 2026-09-08 08:14:21
 </div>
 ~~~
 ## 1、首先打开VS快捷键 JSON
-
 `Ctrl+Shift+P` → 执行：`Preferences: Open Keyboard Shortcuts (JSON)`
-
 把下面整段粘贴进数组`[ ... ]`里面
 ```[
     {
@@ -80,18 +77,10 @@ updated: 2026-09-08 08:14:21
         }
     }
 ]
-
-
 ```
-
-
 Alt+I 普通图片<br>
-
 Alt+T 居中图片 HTML 块<br>
-
 Alt+c 行内代码 `\`xxx\ `<br>
-
 Alt+k 代码块 <br>
- 
 Alt+S 下划线 <ins>文字</ins>
 Ctrl+Enter硬换行 <br>

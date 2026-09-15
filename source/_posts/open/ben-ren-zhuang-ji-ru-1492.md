@@ -1,21 +1,15 @@
 ---
 title: "本人装机软件集合（二.配置服务器）"
 date: 2005-07-10 11:05:13
-cid: 285
 categories: [网络]
-layout: post
 ---
-
 <strong>配置I IS</strong>
-
 一、首先在控制面板中通过添加程序来安装windows组件中的“internet信息
 服务IIS”
 二、控制面板－＞管理工具－＞Internet 信息服务－＞默认网站，再用鼠标
 点属性，将其中“主目录”中的“本地路径”修改成你的目录。本人是D:wwwroot。
 这样通过 <a title="http://localhost/...　就能基本运行html+asp类型的网站了。" href="http://localhost/...　就能基本运行html+asp类型的网站了。" target="_blank" rel="noopener">http://localhost/...　就能基本运行html+asp类型的网站了。</a>
-
 <strong>配置Mysql+Php+Cgi </strong>
-
 一、安装mysql:
 运行装机软件目录中的<span style="color: red;">mysql-3.23.52-win.zip</span>
 ，不要修改
@@ -31,7 +25,6 @@ C:mysql inmysqld-nt.exe -install　（一闪而过，这是这样）
 行下建立一个“红绿灯”的小图标,表示你的计算机的mysql功能正在运行使用中了.
 二、安装 php
 １、双击装机目录或者光盘中的　<span style="color: red;">“php-4.2.2-installer.exe”</span>
-
 注意：在类似的参考帖子中,这部分如何安装说了很多,比如要复制文件,
 又要在管理工具里修改等等.其实这个新版本就不需要了.正如它的软件说的
 一样是全部"自动的".唯一需要注意的是安装是要正确选择配置服务器的软
@@ -46,24 +39,19 @@ C:mysql inmysqld-nt.exe -install　（一闪而过，这是这样）
 动作”。点击“确定”。
 至此配置成功。你可以用php　等程序的探针来试试效果。只要能运行
 就ＯＫ。　例如：　<a title="http://localhost/tz/iprober.php" href="http://localhost/tz/iprober.php" target="_blank" rel="noopener">http://localhost/tz/iprober.php</a>
-
 <span style="color: brown;">这是我用的 cgi+php探针</span>
 ，现传上来给大家共享。（注意其中的<span style="color: red;">del.php</span>
 是
 删除php环境下死锁文件的一个强大的删除程序，请谨慎使用。）
-
 <a href="https://img.cyoy.cn/hexo/images/2005/07/20251127103352685.rar" target="_blank" rel="noopener">Php+Cgi探针点击下载</a>
-
 Asp的探针我没有收录，因为阿江的已经很好了。你可以直接下载使用。
 阿江的网站：　<a title="http://www.ajiang.net/" href="http://www.ajiang.net/" target="_blank" rel="noopener">http://www.ajiang.net/</a>
-
 三、安装 cgi
 １、.下载Perl解释程序：ActivePerl-5.8.3.809-MSWin32-x86.msi，并
 （建议）将它安装到C:usr目录下（使得下载别人的CGI程序时，不用作
 太多修改就可运行，当然也可以采用默认值，毕竟现在cgi程序使用的少
 多了，cgi已经老了）。下载地址：
 <a title="http://downloads.activestate.com/ActivePerl/Windows/5.8/ActivePerl-5.8.3.809-MSWin32-x86.msi" href="http://downloads.activestate.com/ActivePerl/Windows/5.8/ActivePerl-5.8.3.809-MSWin32-x86.msi" target="_blank" rel="noopener">http://downloads.activestate.com/ActivePerl/Windows/5.8/ActivePerl-5.8.3.809-MSWin32-x86.msi</a>
-
 装机软件目录中文件名为　(cgi配置)ActivePerl-5.8.3.809-MSWin32-x86.msi
 ２、“控制面板→管理工具→Internet 信息服务”，选中“默认站点”。
 ３.点击鼠标右键，打开“默认站点”的“属性”窗口，选中“主目
@@ -75,12 +63,9 @@ Asp的探针我没有收录，因为阿江的已经很好了。你可以直接�
 入“.cgi”，点击“确定”。另外在“可执行文件”中也可输入
 “c:usr inperlis.dll”，扩展名中输入“.cgi”
 彬彬服务器环境探测器 v1.0：　<a title="http://localhost/tz/env.cgi" href="http://localhost/tz/env.cgi" target="_blank" rel="noopener">http://localhost/tz/env.cgi</a>
-
 <strong>其它说明</strong>
-
 如果是WINXP+SP2系统，默认情况下开启了防火墙，必须开启80
 端口才能让别人访问到你的WEB服务器。如图所示。
-
 <a href="https://img.cyoy.cn/hexo/images/2005/07/20251127103448331.jpg"><img class="aligncenter size-full wp-image-5575" src="https://img.cyoy.cn/hexo/images/2005/07/20251127103448331.jpg" alt="" width="808" height="677" /></a>
 其它防火墙的设置类似，主要是开启WEB服务端口，如80端口即可。
 另外，由于在Windows XP和Windows 2000 Pro操作系统中的IIS只支
@@ -88,24 +73,9 @@ Asp的探针我没有收录，因为阿江的已经很好了。你可以直接�
 服务器版。如果你一定要在Windows XP和Windows 2000 Pro操作系统中
 使用，必须突破IIS的客户端连接限制。
 至此，你的计算机已经能运行asp_php+mysql+cgi　程序了。享受。
-
 <strong><span style="color: red;">最后很重要的一点：</span>
 </strong>
-
 在“internet信息服务”中点击“默认网站”属性，在“文档”选项
 中要添加 index.html ，index.asp　，index.php　等“启用默认文档”，
 否则就找不到默认首页文件，造成<span style="color: red;">HTTP 错误 403 - 禁止访问</span>
 。
-
-
-
-
-
-
-
-
-
-
-
-
-

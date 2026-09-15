@@ -4,17 +4,13 @@ date: 2011-04-26 14:58
 tags: []
 categories: []
 ---
-
 　群晖的NAS内置的下载程序能直接下载PT，威联通的则需要另外安装Transmission套件。
 以前安装比较麻烦，现在方便多了。
 　　到威联通的后台取得QPKG，里面已经有Transmission了。下载安装它。
  https://img.cyoy.cn/hexo/images/2011/04/transmission.png
-
   　　安装完成后，到它的选项中进入https://cyoy.cn:80/transmission/
 编辑Settings.json文件
-
 ![](https://img.cyoy.cn/hexo/images/2011/04/Snap111.jpg)
-
 “rpc-password”: “aaaaaa”,
 “rpc-port”: 9091,
 “rpc-url”: “/transmission/“,
@@ -31,8 +27,6 @@ NAS的transmission套件的，它本身不是transmission下载套件。不要�
 　　下载地址：http://code.google.com/p/transmission-remote-dotnet/
 　　这是我放在快盘供下载的链接：
 　http://www.kuaipan.cn/file/id_2334211646161921.html
-
-
 作者: 瑶Ba
 链接: https://cyoy.cn/posts/2011/04/26/07/44/00/?highlight=%E7%99%BB%E9%99%86%E7%94%A8%E6%88%B7%E5%90%8D
 来源: 瑶Ba 笔记

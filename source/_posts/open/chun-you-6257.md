@@ -1,11 +1,8 @@
 ---
 title: "春游"
 date: 2024-04-09 20:07:47
-cid: 1375
 categories: [生活]
-layout: post
 ---
-
 涵田开心农场研学活动方案
 时间
 参考行程
@@ -45,16 +42,3 @@ layout: post
 14:40-15:30磨豆浆
 15:40整队返程
 <a href="https://img.cyoy.cn/hexo/images/2024/04/mao2024-04-13-02-07-36-575-scaled-1.jpg"><img class="aligncenter  wp-image-4627" src="https://img.cyoy.cn/hexo/images/2024/04/mao2024-04-13-02-07-36-575-scaled-1.jpg" alt="" width="493" height="834" /></a>
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,13 +1,9 @@
 ---
 title: "Banner Maker Pro最新版本"
 date: 2005-08-13 16:51:00
-cid: 273
 categories: [网络]
-layout: post
 ---
-
 都是用的BMP软件做的。
-
 软件相关资料
 软件名称： Banner Maker Pro 最新版本： 2.02 语言界面： 英文
 操作系统： Windows9X/NT 软件性质： 共享软件 文件大小： 1572K
@@ -37,16 +33,3 @@ layout: post
 正式开始制作Banner。
  　　2、Size(确定Banner的大小)
 　　在窗口右边已例出常见网页Banner的大小规格，如468
-
-
-
-
-
-
-
-
-
-
-
-
-

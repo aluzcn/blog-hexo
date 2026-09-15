@@ -1,11 +1,8 @@
 ---
 title: "原创：如何在自己的计算机上安装支持mysql的php论坛"
 date: 2005-06-04 11:31:02
-cid: 315
 categories: [网络]
-layout: post
 ---
-
 　　<p>鉴于access 的动网论坛在帖子数量达到一定程序后,运行效率迅速下降,<br />所以一直想重新选择一个好一点的语言论坛.当然真正好的应该是sql server,<br />但那种数据库的空间太贵了,而且论坛程序还要花钱购买,所以我选择了<br />基于mysql 数据库的CDB 论坛,它是Php的.<br />今天刚刚在自己的windows xp 上调试安装成功测试环境,写下来供网友<br />共享.其中有点观点和方法不一定是最正确的,但能成功<br />首先请阅读参考此文章：<br /><br /><a href="http://www.cnhome.net/article.asp?id=47" target="_blank" title="http://www.cnhome.net/article.asp?id=47">http://www.cnhome.net/article.asp?id=47</a>
 <br /><br />上面这个帖子是别人网友发表的,我也参考了一下.其中有的方法是可行的,<br />有的却不一定全部照抄.注意事项如下:<br />1.我的操作系统是win xp,不是win 2000,在安装中要用到IIS,也就是说我<br />是在已经安装了asp,cgi的服务器环境下再安装mysql的php的.<br />2.mysql和php,是两个概念.一个是数据库,一个是程序语言,都必须安装的.<br />上面的文章说要先安装mysql再安装php,但我刚好反过来,但也成功了,<br />也可能是我在先安装php ->mysql后,又安装了一次php吧.<br />3.特别注意的是:安装这个环境,有两种:<br />一是只安装PHP4及MySQL,二是Apache+PHP4+MySQL.我是用的第一种<br />下面我再把自己的心得写出来<br /><br /><b>如何下载</b>
  <br />刚才说过必须安装mysql和php才行.建议不要从其它的网站下载,而直接从<br />它们的官方网站直接下载最新版本,免费的.起码到目前还是这样.<br />网址如下:<br /><a href="http://www.mysql.com" target="_blank" title="http://www.mysql.com">http://www.mysql.com</a>
@@ -21,16 +18,3 @@ layout: post
 <br />下载后安装到IIS配置好的目录里.(这是如何配置IIS部分的,这里不讨论)<br />执行<a href="http://cnhome.myftpsite.net/cdb2/install.php" target="_blank" title="http://cnhome.myftpsite.net/cdb2/install.php">http://cnhome.myftpsite.net/cdb2/install.php</a>
 <br />(其中<a href="http://cnhome.myftpsite.net" target="_blank" title="http://cnhome.myftpsite.net">http://cnhome.myftpsite.net</a>
  是我安装的将自己计算机的动态IP地址<br />变成固定域名的软件,你可以到DNS2GO下载安装),下面是当时的安装信息:<br />===============================================<br />数据库服务器: 数据库服务器地址, 一般为 localhost (不需要改动) <br />数据库用户名: 数据库账号用户名 (就是你在安装mysql时设定的)<br />数据库密码: 数据库账号密码 (同上)<br />数据库名: 数据库名称 (同用户名)<br />系统 Email: 用于发送程序错误报告 (你自己的信箱)<br />表名前缀: 同一数据库安装多论坛时使用 (默认)<br />系统时差: 服务器时间不准时调整用 (默认)<br />================================================<br />如果正确,系统将创建数据库成功.一切OK.<br />对了.最后这个数据库就在"C:mysqldata用户名" 目录下.<br />原来是没有"用户名"这个目录的,只有C:mysqldatamysql<br />和C:mysqldata est 目录,能创建这个目录,说明成功了.<br />下面如何玩论坛我就不说了.呵呵.一个爽.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-

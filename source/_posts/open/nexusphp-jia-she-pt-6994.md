@@ -1,14 +1,10 @@
 ---
 title: "NexusPHP架设PT服务"
 date: 2011-03-11 12:33:00
-cid: 409
 categories: [网络]
 tags: [软件]
-layout: post
 ---
-
 <strong>说明：本人参照以下办法在windows7+AMPServ526下搭建成功，但在NAS上不行。很简单，因为NAS目前不支持memcache。</strong>
-
 ![请输入图片描述][1]
 以下是摘录的内容+自己的修改
 PT是什么？简单点说就是只下载不上传就会让踢掉的BT下载服务，是一个小圈子内部使用的。
@@ -23,7 +19,6 @@ PT是什么？简单点说就是只下载不上传就会让踢掉的BT下载服�
 ‘mysql_pass’ =&gt; ‘数据库密码’,
 ‘mysql_db’ =&gt; ‘数据库名’,
 注意编辑保存时要用utf-8，否则站名名称是中文的话就会乱码。
-
 另外：那里说的（修改’classes\class_cache.php’中的localhost为127.0.0.1）好像是为了避免出现下面这个错误的：
 Warning: Memcache::connect() [memcache.connect]: Can’t connect to localhost:11211, 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 (10060) in E:\APMServ5.2.6\www\htdocs\classes\class_cache.php on line 19
 不过我没有遇到这个问题。
@@ -35,19 +30,4 @@ Warning: Memcache::connect() [memcache.connect]: Can’t connect to localhost:11
 3.在MySQL命令行管理工具输入以下命令： USE nexus; UPDATE users SET class=’16′ WHERE username=’admin’; 注意：将以上命令中的’nexus’替换成你的数据库名，将’admin’替换成你注册的用户名。
 4.退出MySQL命令行管理工具:
 到这里PT基本上就架设完毕了，现在只需要利用管理员帐号对站点进行设置和调整就可以了。
-
-
   [1]: https://img.cyoy.cn/hexo/images/2011/03/Snap21.jpg
-
-
-
-
-
-
-
-
-
-
-
-
-

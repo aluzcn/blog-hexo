@@ -1,15 +1,10 @@
 ---
 title: "Typecho伪静态文件"
 date: 2018-08-30 20:20:00
-cid: 1482
 categories: [Nas]
-layout: post
 ---
-
 90qh的虚拟主机是windows系统。
-
 # BEGIN typecho
-
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /typecho/
@@ -18,22 +13,5 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /typecho/index.php [L]
 </IfModule>
-
 # END typecho
-
-
-
 用editplus等编辑，保存为.htaccess
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,11 +1,8 @@
 ---
 title: "關於 DS211 及 DSM 3.0 file system 關於SHR的疑問"
 date: 2011-01-16 20:57:49
-cid: 8
 categories: [Nas]
-layout: post
 ---
-
 　　目前 SHR 並沒有提供使用者自行選擇分割及 RAID 型式的功能。SHR 主要是讓硬碟大小不同的使用者可以利用到所有的硬碟空間。
 　　例如：2TB*2 + 1TB*1 的三顆硬碟
 　　1. 若使用傳統的 RAID5 會組成 1TB*3 的 RAID5 儲存空間：實際可使用空間為 2TB，浪費的空間為 1TB*2=2TB
@@ -14,16 +11,3 @@ layout: post
 　　http://forum.synology.com/cht/viewtopic.php?f=30&amp;t=3359&amp;p=11236&amp;hilit=raid#p11236
 　　必看：
 　　http://forum.synology.com/cht/viewtopic.php?f=6&amp;t=2838&amp;p=10049&amp;hilit=raid#p10049
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,12 +1,9 @@
 ---
 title: "采用一个两栏国外主题"
 date: 2011-04-11 11:07:00
-cid: 431
 categories: [网络]
 tags: [主题]
-layout: post
 ---
-
 　　再好的主题用久了也觉得审美疲劳，已经购买了两款很美的收费主题，用了几个月了。
 　　今天没事想再换一个简洁的主题，搜索了一下免费两栏的。找到这个：
 　　http://lucianmarin.com/page/themes
@@ -16,21 +13,5 @@ layout: post
 wp-utf8-excerpt　不能生成摘要，必须手动输入more...
 WP-PageNavi分页导航，不能使用。
 　　不过以上两个插件开启后也没有冲突，只是不能显示使用效果而已。
-
 ![请输入图片描述][1]
-
-
   [1]: https://img.cyoy.cn/hexo/images/2011/04/screenshot.png
-
-
-
-
-
-
-
-
-
-
-
-
-

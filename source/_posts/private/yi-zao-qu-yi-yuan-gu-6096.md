@@ -1,5 +1,4 @@
 ---
-
 tags: [private]
 title: "一早去医院挂号"
 date: 2016-02-15 08:47:40
@@ -9,19 +8,4 @@ categories: [生活]
 　　回宾馆吃早饭后8点再到医院看专家号。我的染色体报告还要半个月才能出来，<br>
 　　导医台让我下次来前先订电话问问。抽血要重做一项目，让我素食3天，准备明天就来
 空腹抽。
-
 <p>　　　<img alt="IMG_0313" class="alignnone size-full wp-image-2205" height="450" src="https://img.cyoy.cn/hexo/images/2016/02/IMG_0313.jpg" width="600" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

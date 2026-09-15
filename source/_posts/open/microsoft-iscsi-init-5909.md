@@ -1,12 +1,9 @@
 ---
 title: "Microsoft iSCSI Initiaor的安装设置"
 date: 2011-02-21 16:28:35
-cid: 392
 categories: [Nas]
 tags: [iscsi]
-layout: post
 ---
-
 <p>　　winxp自身没有iscsi程序，必须安装后才能使用。vista和win7就能直接使用了。</p>
 <p>&nbsp;</p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -55,16 +52,3 @@ layout: post
 		</tr>
 	</tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-

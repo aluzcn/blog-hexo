@@ -1,11 +1,8 @@
 ---
 title: "群晖数据同步到移动云盘"
 date: 2024-06-16 22:13:30
-cid: 1402
 categories: [Nas]
-layout: post
 ---
-
 <p style="text-indent: 2em;">分两步：</p>
 <p style="text-indent: 2em;">一，安装矿神社群的AList套件。具体参考：
 <a href="https://post.smzdm.com/p/a20gvgxp/" target="_blank" rel="noopener">nas使用分享 篇六：群晖NAS套件Alist 挂载中国移动云盘</a></p>
@@ -17,16 +14,3 @@ layout: post
 <p style="text-indent: 2em;">2、关键点就是 服务器地址为 AList的完整局域网地址+/dav ,比如
 <em><strong>?http://192.168.0.119:5244/dav</strong></em>? 开头是http ，末尾一定加上 <span style="color: #993300;"><strong>/dav
 </strong></span>? ? 用户账户和密码就是AList的登陆用户名和密码。</p>
-
-
-
-
-
-
-
-
-
-
-
-
-

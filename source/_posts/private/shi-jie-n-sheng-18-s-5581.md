@@ -3,7 +3,6 @@ title: "世界女声18首"
 date: 2006-12-10 20:19:59
 categories: [生活]
 ---
-
 　　<p>1.Unce Upon A Dream<br />演唱: Linda Eder　选自: JekyII &amp; Hyde　发行号: RCA 60416&mdash;2<br /><br />下载链接<br /><a href="http://www.zhsc.net/bbs/images/fssszy4/001OnceUponADream.mp3" target="_blank" title="http://www.zhsc.net/bbs/images/fssszy4/001OnceUponADream.mp3" rel="noopener">http://www.zhsc.net/bbs/images/fssszy4/001OnceUponADream.mp3</a>
 <br /><br />2.Gje Meq Handa Di<br />演唱: Anne Karin Kaasa　选自: Svalande Vind　发行号: FXCD 103[separator]<br /><br />这是一位叫Anne Karin Kaasa的瑞典女歌手的演唱，这位女歌手金发碧眼，唱腔中明显带着北欧民谣风格，气质极高贵。相信绝大部分人都和我们一样，不懂歌中在唱什么。没有关系，重要的是这首歌的旋律竟是如此优美，优美得有些象童话中的风景，将人带去世外桃源。有着美妙滑音的吉他伴奏，即使手指轻轻的擦弦亦纤毫毕现。此外弦线的质感，击弦时吉他共鸣腔的木质感都逼真得叫人五体投地。<br /><br />下载链接<br /><br /><a href="http://www.zhsc.net/bbs/images/fssszy4/002GjeMeqHandaDi.mp3" target="_blank" title="http://www.zhsc.net/bbs/images/fssszy4/002GjeMeqHandaDi.mp3" rel="noopener">http://www.zhsc.net/bbs/images/fssszy4/002GjeMeqHandaDi.mp3</a>
 <br /><br />3.The Moon Is A Harsh Mistress<br /><br />演唱: Radka Toneff　选自: Fairytales　发行号: ODIN CD&mdash;03<br /><br />自古红颜多薄命。听挪威女歌手Radka Toneff这段如静谷幽兰般的演唱时，你能想到这位玉殒香消的女歌手是因为精神抑郁，最终自尽的吗？Toneff的歌声象是来自远远天空的某一处，那透明晶莹的钢琴伴奏则象是涧中溪流般沁人心脾。好了，不妨碍你了，闭上眼慢慢醉去吧！<br /><br />忠告: 在心情不佳时请将此歌跳过，暂勿聆听。<br /><br />下载链接<br /><br /><a href="http://www.zhsc.net/bbs/images/fssszy4/003TheMoonIsAHarshMistress.mp3" target="_blank" title="http://www.zhsc.net/bbs/images/fssszy4/003TheMoonIsAHarshMistress.mp3" rel="noopener">http://www.zhsc.net/bbs/images/fssszy4/003TheMoonIsAHarshMistress.mp3</a>
@@ -22,16 +21,3 @@ categories: [生活]
 <br /><br /><br /><br />16.Night And Day<br /><br />演唱: Bette Midler　选自: Some Peoples Lives　发行号: Atlantic 7567&mdash;82129<br /><br />Bette Midler以一曲《来自远方》扬名全球，至今仍记得此首歌曲在电台点歌节目中的出现频率。另外，Bette的走红还有赖于海湾战争。时值那首&ldquo;来自远方&rdquo;风行之际，正是&ldquo;沙漠风暴&rdquo;激战正酣之时，在伊拉克作战的美军士兵，通过卫星听到Bette的歌时，都不禁激起思乡之情，想念起万里之外的家人，黯然泪下。<br /><br />　　这首&ldquo;Night And Day&rdquo;与&ldquo;来自远方&rdquo;同属一张专辑，同样是一首佳作。Bette广阔的音域，大气的歌声似要冲破层层阻隔，将真情播洒天地人间。<br /><br />下载链接<br /><br /><a href="http://www.zhsc.net/bbs/images/fssszy4/016NightAndDay.mp3" target="_blank" title="http://www.zhsc.net/bbs/images/fssszy4/016NightAndDay.mp3" rel="noopener">http://www.zhsc.net/bbs/images/fssszy4/016NightAndDay.mp3</a>
 <br /><br /><br /><br />17.Spanish Harlem<br /><br />演唱: Rebecca Pidgeon　选自: The Raven　发行号: Chesky JD 115<br /><br />于本碟的听众而言，歌手的知名度似乎已不再重要，只要沉浸在她们独具一格的风情中，就是莫大的享受。<br /><br />　　这位叫Rebecca的女子，可能平生就出过这么一张唱片，不料，名气在发烧友中不胫而走。据说，她的丈夫是录音师的好友，在一次聚会中无意被发现才能，邀她试着录音，没想到竟录出了一张天碟。<br /><br />　　超级的录音技术帮了吕贝卡的大忙。美国蚊型公司Chesky一直走在科技最前端，在这张录音中他们用独家研究的20Bit 128倍超取样的数码技术，让全球高级音响玩家眼镜跌地。Chesky的这一科技被称为High Resolution Techndogy&mdash;&mdash;高分析力科技。<br /><br />　　选取的这首歌叫&ldquo;西班牙哈莱姆区&rdquo;(哈莱姆区是美国纽约的贫民区)。为展现&ldquo;高分析力科技&rdquo;实力，编曲者有意不安排电子乐器，全部以自然真实的传统乐器来伴奏。因此除了吕贝卡纯净无瑕的人声，每一件乐器包括低音提琴、沙槌、小提琴、钢琴的质感、分析力、传真度、层次分隔、结像定位都达到现有录音技术能达到的最高水准，是每个发烧友的必播之曲。<br /><br />下载链接<br /><br /><a href="http://www.zhsc.net/bbs/images/fssszy4/017SpanishHariem.mp3" target="_blank" title="http://www.zhsc.net/bbs/images/fssszy4/017SpanishHariem.mp3" rel="noopener">http://www.zhsc.net/bbs/images/fssszy4/017SpanishHariem.mp3</a>
 <br /><br /><br /><br />18.Bridge Over Trouble Water<br /><br />演唱: 细川绫子<br /><br />选自: 《THe Wonderful Sound of Three Blind Mice》 GS CD004<br /><br />发烧三盲鼠-The Wonderful Sound of Three Blind Mice&mdash;&mdash;这张&ldquo;三盲鼠无敌至尊精选第一集&rdquo;可说是经典中的极致，发烧片中的至宝，精选旗下10张最具代表性的超级名盘，网罗多位国宝级的日本知名乐手及唱将，包含有爵士天后细川绫子的&ldquo;奇妙先生Mr. Wonderful&rdquo;，低频效果及临场感憾人歌曲Aqua Marine选自铃木勋的&ldquo;Blow up&rdquo;以及情意丰富的绿袖子还有三本刚的&ldquo;Misty&rdquo;&hellip;等首选名曲。<br /><br />　　值得一提的是母带以20BIT所发展出高解析音质发烧技术，这张消失多年再次出现的专辑，成为广大爱乐者口中的梦幻逸品。<br /><br />　　&ldquo;三盲鼠&rdquo;这个名字，让日本的爵士乐在世界乐坛上打出一个响铛铛的名号，以名制作人藤井武为首，加上超级录音师神成芳彦，艺术指导大师西泽勉的铁三角组合也一直被人津津乐道以及再三怀念，录制过的每一款杰作都是爵士乐迷和发烧友拼死以求的绝世天碟，不闻其名其乐者几稀，经手过的专辑张张效果逼真、音质甜美、空间感十足。<br /><br />　　三盲鼠可以算是日本对本国度爵士发展贡献极大的一家本土公司。这家从70年6月建立至今，重点推广日本爵士艺人们的作品，麾下有山本
-
-
-
-
-
-
-
-
-
-
-
-
-

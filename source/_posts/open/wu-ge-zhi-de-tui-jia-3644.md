@@ -1,13 +1,9 @@
 ---
 title: "五个值得推荐的PHP服务器套件(转)"
 date: 2016-02-16 16:27:00
-cid: 623
 categories: [网络]
-layout: post
 ---
-
 <p>&nbsp; &nbsp; <span style="color:#FF0000;">我有vps，有空试试。</span></p>
-
 <p>平常用的虚拟主机的朋友可能很少会关注到Web服务器的搭建，但是对于那些购买了Windows、Linux&nbsp;VPS或服务器的朋友来说，如何在VPS服务器上快速搭建一个Web服务器就是最重要的问题了。<br />
 	<br />
 	下面推荐一下目前比较火的几款服务器插件，供大家参考。<br />
@@ -33,17 +29,3 @@ layout: post
 	XAMPP（Apache+MySQL+PHP+PERL）是一个功能强大的建&nbsp;XAMPP&nbsp;软件站集成软件包。这个软件包原来的名字是&nbsp;LAMPP，但是为了避免误解，最新的几个版本就改名为&nbsp;XAMPP&nbsp;了。它可以在Windows、Linux、Solaris、Mac&nbsp;OS&nbsp;X&nbsp;等多种操作系统下安装使用，支持多语言：英文、简体中文、繁体中文、韩文、俄文、日文等，相对于前面版XAMPP拥有更多语言选择。<br />
 	<br />
 	上面五个PHP服务器套件我都使用过，我推荐upupw和phpstudy这2个套件，因为相对于其他套件而言，版本多，而且更新比较快。</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,11 +1,8 @@
 ---
 title: "如何有规律的备份WP博客"
 date: 2011-01-29 16:15:12
-cid: 360
 categories: [Nas]
-layout: post
 ---
-
 我们都知道备份 WordPress 博客应该是规律性的操作，但是事实上往往我们都会因为其它的事情的介入而忘记了。
 没有备份博客所产生的后果是非常严重的，假如你的服务器因为某种原因宕掉了，或者网站被黑，而你恰恰又没有备份你的博客，这时候你将使你无法恢复你的博客或者丢失很多重要数据，你除了哭之外，真的没有别的办法了！
 下面我们来简单说一下如何快捷备份 WordPress 博客。
@@ -19,7 +16,6 @@ layout: post
 </ol>
 <h3><a name="toc-2"></a>使用 WordPress Database Backup 自动备份数据库</h3>
 如果你没有权限登录 phpMyAdmin，那么我推荐你使用插件 WordPress Database Backup。
-
 下面介绍一下 WordPress Database Backup 这个插件的使用。
 <ol>
  	<li>下载并激活插件(就不说了，大家应该都知道)；</li>
@@ -30,16 +26,3 @@ layout: post
  	<li>另外，该插件还有定时备份功能，备份文件会发送到你自己指定的邮箱中。<a href="https://img.cyoy.cn/hexo/images/2011/01/20251126202107685.jpg"><img class="aligncenter size-full wp-image-5518" src="https://img.cyoy.cn/hexo/images/2011/01/20251126202107685.jpg" alt="" width="722" height="333" /></a></li>
 </ol>
 <ins><ins id="google_ads_frame2_anchor">?</ins></ins>
-
-
-
-
-
-
-
-
-
-
-
-
-

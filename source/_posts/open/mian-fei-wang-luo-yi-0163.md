@@ -1,11 +1,8 @@
 ---
 title: "免费网络硬盘大全"
 date: 2005-08-04 10:33:05
-cid: 277
 categories: [网络]
-layout: post
 ---
-
 　　<p>1]。这一类硬盘无需下载客户端,用起来比较方便.,比如相册之类的,空间经常是无限的.而且速度也很快.<br /><br />永硕网络硬盘<br /><br />硬盘类型:不需客户端,需注册,<br /><br />硬盘大小:20M<br /><br />推荐指数:★★★★★<br /><br />硬盘网址:<a href="http://www.ys168.com" target="_blank" title="http://www.ys168.com">http://www.ys168.com</a>
  <br /><br />简介:虽小,但是功能多,只要把地址发给你的朋友,就可以和他们共享了.管理的自主性是同类产品中最强的.对于任何一个目录,均可以设访客的权限(先设密码,再设相应权限),若是付费,优势则更大.强烈推荐!!<br /><br />雅虎公文包<br /><br />硬盘类型:不需客户端,需注册.<br /><br />硬盘大小:30M<br /><br />推荐指数:★★★★<br /><br />硬盘网址:<a href="http://cn.briefcase.yahoo.com" target="_blank" title="http://cn.briefcase.yahoo.com">http://cn.briefcase.yahoo.com</a>
  <br /><br />简介:30M ,http方式,提供共享功能.自动性也不错.<br /><br />JRUE图片上传<br /><br />硬盘类型:不需客户端,需注册.<br /><br />硬盘大小:不定,最大500M)<br /><br />推荐指数:★★★★★<br /><br />硬盘网址:<a href="http://www.jrue.com/" target="_blank" title="http://www.jrue.com/">http://www.jrue.com/</a>
@@ -35,16 +32,3 @@ layout: post
  <br /><br />简介:简单发送1GB附件的邮件<br /><br />步骤1：在&ldquo;Recipient &#39;s Email Address&rdquo;栏目中,输入接收者的邮箱地址.<br /><br />步骤2：从&ldquo;Sel&#101;ct File to Send（Upto1GB）&rdquo;这个栏目标题中能获悉所发送文件的最大容量可达到1GB,这样的标准相信可满足大多数用户的要求.而单击栏目旁的&ldquo;浏览&rdquo;按钮,在出现的对话框中选择所要发送的文件即可.<br /><br />步骤3：为了使朋友知道自己的E-mail地址,可在&ldquo;Your Email Address（Optional）&rdquo;栏目中输入自己的邮箱地址,并勾选下方的&ldquo;Remember my email address&rdquo;选项对邮件地址进行记忆.在&ldquo;Message to Recipient（Optional）&rdquo;文本框中进行留言.当所有设置准备妥当后,单击&ldquo;Send It&rdquo;按钮即可发送.若用户想让自己的文件能以更安全的方式发送,可单击页面底部的&ldquo;Need secure transfers&rdquo;链接,而后在打开的页面里进行文件发送即可.<br /><br /><br /><br />小图片上传<br /><br />硬盘类型:不需客户端,不需注册.<br /><br />硬盘大小:单个不超过250K<br /><br />推荐指数:★★★★★<br /><br />硬盘网址:<a href="http://tinypic.com/" target="_blank" title="http://tinypic.com/">http://tinypic.com/</a>
  <br /><br />简介:本人一直使用的.点&#34;浏览&#34;后上传,记住上传成功后的地址.对于一些论坛不能上传太多的图片时非常有用.<br /><br /><br /><br />多媒体上传<br /><br />硬盘类型:不需客户端,不需注册.<br /><br />硬盘大小:单个不超过5M<br /><br />推荐指数:★★★★★<br /><br />硬盘网址:<a href="http://www.putfile.com/" target="_blank" title="http://www.putfile.com/">http://www.putfile.com/</a>
  <br /><br />简介:是英文的.先&#34;浏览&#34;选定.再选择类型(必填)如果是图片点&#34;IMAGE&#34;,视频点&#34;VIDEO&#34;,在&#34;I have read and agree to the TOS.&#34;前打勾,就可以上传了</p>
-
-
-
-
-
-
-
-
-
-
-
-
-

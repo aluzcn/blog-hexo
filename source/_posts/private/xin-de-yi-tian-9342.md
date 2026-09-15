@@ -1,11 +1,9 @@
 ---
-
 tags: [private]
 title: "新的一天"
 date: 2016-03-15 07:32:00
 categories: [生活]
 ---
-
 &nbsp; &nbsp; &nbsp; &nbsp; 经过一个多月的辛苦，昨天下午终于在医院建档了，这就表示医院正式从门诊转为病房了。
 &nbsp; &nbsp; &nbsp; &nbsp; 上午6:30又到医院挂号。老婆继续排队7:30抽血，然后B超，我先回宾馆吃早饭，马上再去。
 &nbsp; &nbsp; &nbsp; &nbsp; 不知今天是否能取?
@@ -14,16 +12,3 @@ categories: [生活]
 &nbsp; &nbsp; &nbsp; &nbsp; 1:40到6楼，护士打电话问里面的人，告诉我的也没问题，要求18号再来。
 &nbsp; &nbsp; &nbsp; &nbsp; 一直等赵主任，问清楚了需不需要开药。原来是这么回事。
 &nbsp; &nbsp; &nbsp; &nbsp; 3:30出发回家，路上比较堵。
-
-
-
-
-
-
-
-
-
-
-
-
-

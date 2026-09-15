@@ -3,7 +3,6 @@ title: "切尔诺贝利相关资源"
 date: 2011-03-31 15:40:58
 categories: [生活]
 ---
-
 　　以前曾经通过电驴下载过切尔诺贝利的视频报道，对其中苏联士兵不顾生命去抢救电站、拾取散落的核棒，被称为有生命的机器人一节特别感慨。
 　　<strong>抢救切尔诺贝利真相</strong>
 　　http://v.youku.com/v_show/id_XODU1ODc4NDg=.html
@@ -18,16 +17,3 @@ categories: [生活]
 　　http://jishi.cntv.cn/C24831/classpage/video/20110218/100442.shtml
 　　另外百度上还有一个切尔诺贝利吧
 　　http://tieba.baidu.com/f?kw=%C7%D0%B6%FB%C5%B5%B1%B4%C0%FB
-
-
-
-
-
-
-
-
-
-
-
-
-

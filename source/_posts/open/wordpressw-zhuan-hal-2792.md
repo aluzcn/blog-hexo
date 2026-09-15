@@ -1,12 +1,9 @@
 ---
 title: "wordpressw转halo的步骤"
 date: 2024-12-08 09:49:06
-cid: 1406
 categories: [Nas]
 tags: [halo]
-layout: post
 ---
-
 <p>一、进入正常运行的wordpress后台：<br />1，工具--导出，下载导出的文件。如果文章比较多，比如超过2000篇，<br />可以选择下面的“文章”，按 “分类” 分几部分导出，再分批次导入halo。<br /><img class="wp-image-5281 aligncenter" src="https://img.cyoy.cn/hexo/images/2024/12/screenshot-1733576424741.png" alt="wordpressw转halo的步骤" width="452" height="462" /></p>
 <p>二、编辑导出的 xml文件：<br />用editplus 或者 Notepad++等等类似软件打开编辑从wp导出的xml文件，<br />查找替换原来 http://old.xxx 域名为你准备新使用的域名。如果你不准备更<br />换域名，这一步可以省略。<br />如果在Nas上安装，需要加上 http://new.xx:77 这样的端口号。</p>
 <p>三：在能正常运行的halo上，安装站点迁移插件。</p>
@@ -30,35 +27,16 @@ SET `data` = REPLACE(`data`, 'https://cyoy.cn', 'http://cyoy.me')
 WHERE `data` LIKE '%https://cyoy.cn%';
 </pre>
 <!-- /wp:paragraph -->
-
 <!-- wp:image {"id":5299,"width":"617px","height":"auto","sizeSlug":"full"} --><!-- /wp:image -->
-
 <!-- wp:paragraph --><!-- /wp:paragraph -->
-
 <!-- wp:code --><!-- /wp:code -->
-
 <!-- wp:paragraph -->
 <p>或者：</p>
 <pre class="theme:obsidian-light font-size:16 line-height:18 lang:default decode:true ">UPDATE `extensioUPDATE `extensions` 
 SET `data` = REPLACE(`data`, 'https://cyoy.cn', 'http://cyoy.me') 
 </pre>
 <!-- /wp:paragraph -->
-
 <!-- wp:code --><!-- /wp:code -->
-
 <!-- wp:image {"id":5296,"width":"674px","height":"auto","sizeSlug":"full"} -->
 <figure class="wp-block-image size-full is-resized"><br /><img class="wp-image-5296" style="width: 674px; height: auto;" src="https://img.cyoy.cn/hexo/images/2024/12/screenshot-1733840426454.png" alt="wordpressw转halo的步骤" /></figure>
 <!-- /wp:image -->
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,12 +1,9 @@
 ---
 title: "通过VPN实现外网远程连接iscsi（一）--基础篇"
 date: 2011-06-16 16:28:04
-cid: 464
 categories: [Nas]
 tags: [iscsi]
-layout: post
 ---
-
 <p>　　如果你对iscsi是什么，或者在局域网内也不知道如何设置访问iscsi，那先阅读下面两篇文章：</p>
 <p>　　1、winxp如何配置访问iscsi　 https://cyoy.cn/nas/695.html　</p>
 <p>　　2、win7如何配置访问iscsi　　https://cyoy.cn/nas/702.html</p>
@@ -18,17 +15,3 @@ layout: post
 <p><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-size: 14px; line-height: 25px; "><span class="Apple-style-span" style="line-height: normal; font-size: 12px; color: rgb(34, 34, 34); ">　　用非专业的话说就是在已经连接上互联网的前提下，VPN能提供一个专门的通道，虚拟出一个局域网。只有知道密码并成功登陆的用户，才能通过VPN节点（路由器）访问到与叫路由器相连的局域网。</span></span></p>
 <p><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-size: 14px; line-height: 25px; "><span class="Apple-style-span" style="line-height: normal; font-size: 12px; color: rgb(34, 34, 34); ">　　实际情况就是你首先在办公室等外网能通过internet访问到家里的Nas服务器，然后外网中的电脑通过设置好用户名和密码的VPN连接登陆到家里路由器上。这时家里的路由器会把办公室等远程中的电脑看成是与之相连的局域网中的设备，形成一个虚拟的扩大的局域网。这时再用办公室电脑的Iscsi发起程序就能访问到家里的ISCSI了。</span></span></p>
 <p>　　本人知识和能力有限，说了这么多，不知道大家明白吗。</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
